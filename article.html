@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Article FC Barcelone">
+  <title>Article — FC Barcelone</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23004D98' width='100' height='100' rx='12'/><text y='72' x='50' text-anchor='middle' font-size='60' fill='%23A50044'>⚽</text></svg>">
+</head>
+<body>
+  <header class="header" id="header">
+    <nav class="nav container">
+      <a href="index.html" class="nav__logo">
+        <span class="nav__logo-icon">⚽</span>
+        <span class="nav__logo-text">FC Barcelone</span>
+      </a>
+      <button class="nav__toggle" id="navToggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__menu" id="navMenu">
+        <li><a href="index.html" class="nav__link">Accueil</a></li>
+        <li><a href="actualites.html" class="nav__link">Actualités</a></li>
+        <li><a href="effectif.html" class="nav__link">Effectif</a></li>
+        <li><a href="club.html" class="nav__link">Le Club</a></li>
+        <li><a href="histoire.html" class="nav__link">Histoire</a></li>
+        <li><a href="palmares.html" class="nav__link">Palmarès</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="container">
+      <a href="actualites.html" class="back-link">← Retour aux actualités</a>
+    </div>
+
+    <article class="article-page">
+      <div class="container article-page__layout">
+        <div class="article-page__header">
+          <div class="article-page__meta">
+            <span class="article-page__source" id="articleSource">—</span>
+            <span class="article-page__category" id="articleCategory">—</span>
+            <span class="article-page__date" id="articleDate">—</span>
+          </div>
+          <h1 class="article-page__title" id="articleTitle">Chargement...</h1>
+        </div>
+
+        <img class="article-page__image" id="articleImage" src="" alt="" loading="lazy">
+
+        <div class="article-page__content">
+          <h2>Résumé</h2>
+          <p class="article-page__summary" id="articleSummary"></p>
+
+          <div class="article-page__source-link">
+            <p>Cet article provient de <strong id="articleSourceName"></strong>. Pour lire l'intégralité du contenu original :</p>
+            <a href="#" id="articleOriginalLink" class="btn btn--outline" target="_blank" rel="noopener noreferrer">
+              Lire sur la source originale →
+            </a>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <section class="section section--alt" id="relatedSection">
+      <div class="container">
+        <h2 class="section__title section__title--left">Articles similaires</h2>
+        <div class="related-articles" id="relatedArticles"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <span class="footer__logo">⚽ FC Barcelone</span>
+        <p class="footer__tagline">Més que un club — Plus qu'un club</p>
+      </div>
+      <div class="footer__links">
+        <a href="https://www.fcbarcelona.com" target="_blank" rel="noopener">Site officiel</a>
+        <a href="https://twitter.com/FCBarcelona" target="_blank" rel="noopener">Twitter/X</a>
+        <a href="https://www.instagram.com/fcbarcelona" target="_blank" rel="noopener">Instagram</a>
+      </div>
+      <p class="footer__note">Site informatif non affilié au FC Barcelone. Actualités agrégées via flux RSS publics.</p>
+      <p class="footer__copy">&copy; 2026 Portal Blaugrana</p>
+    </div>
+  </footer>
+
+  <script src="js/article.js" type="module"></script>
+</body>
+</html>

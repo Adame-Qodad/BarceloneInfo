@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Histoire du FC Barcelone — Frise chronologique des moments clés.">
+  <title>Histoire — FC Barcelone</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23004D98' width='100' height='100' rx='12'/><text y='72' x='50' text-anchor='middle' font-size='60' fill='%23A50044'>⚽</text></svg>">
+</head>
+<body>
+  <header class="header" id="header">
+    <nav class="nav container">
+      <a href="index.html" class="nav__logo">
+        <span class="nav__logo-icon">⚽</span>
+        <span class="nav__logo-text">FC Barcelone</span>
+      </a>
+      <button class="nav__toggle" id="navToggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__menu" id="navMenu">
+        <li><a href="index.html" class="nav__link">Accueil</a></li>
+        <li><a href="actualites.html" class="nav__link">Actualités</a></li>
+        <li><a href="effectif.html" class="nav__link">Effectif</a></li>
+        <li><a href="club.html" class="nav__link">Le Club</a></li>
+        <li><a href="histoire.html" class="nav__link active">Histoire</a></li>
+        <li><a href="palmares.html" class="nav__link">Palmarès</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <h1 class="page-hero__title">Histoire du club</h1>
+        <p class="page-hero__desc">Plus d'un siècle de passion blaugrana.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="timeline" id="timeline"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <span class="footer__logo">⚽ FC Barcelone</span>
+        <p class="footer__tagline">Més que un club — Plus qu'un club</p>
+      </div>
+      <div class="footer__links">
+        <a href="https://www.fcbarcelona.com" target="_blank" rel="noopener">Site officiel</a>
+        <a href="https://twitter.com/FCBarcelona" target="_blank" rel="noopener">Twitter/X</a>
+        <a href="https://www.instagram.com/fcbarcelona" target="_blank" rel="noopener">Instagram</a>
+      </div>
+      <p class="footer__note">Site informatif non affilié au FC Barcelone. Actualités agrégées via flux RSS publics.</p>
+      <p class="footer__copy">&copy; 2026 Portal Blaugrana</p>
+    </div>
+  </footer>
+
+  <script src="js/histoire.js" type="module"></script>
+</body>
+</html>

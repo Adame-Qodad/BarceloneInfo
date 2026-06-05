@@ -1,0 +1,378 @@
+{
+  "season": "2025-2026",
+  "players": [
+    {
+      "slug": "marc-andre-ter-stegen",
+      "name": "Marc-André ter Stegen",
+      "fullName": "Marc-André ter Stegen",
+      "number": 1,
+      "position": "Gardien",
+      "nationality": "🇩🇪 Allemagne",
+      "country": "Allemagne",
+      "age": 33,
+      "birthDate": "30 avril 1992",
+      "birthPlace": "Mönchengladbach, Allemagne",
+      "height": "1,87 m",
+      "foot": "Droit",
+      "joined": "2014",
+      "previousClubs": [
+        "Borussia Mönchengladbach"
+      ],
+      "photo": "assets/players/marc-andre-ter-stegen.jpg",
+      "bio": "Capitaine et gardien titulaire du FC Barcelone depuis 2014, Marc-André ter Stegen est reconnu pour sa qualité de relance et ses réflexes exceptionnels. Champion du monde 2014 avec l'Allemagne, il a remporté une Ligue des Champions (2015) et plusieurs titres de Liga. Considéré comme l'un des meilleurs gardiens au monde, il incarne le style de jeu positional du Barça."
+    },
+    {
+      "slug": "wojciech-szczesny",
+      "name": "Wojciech Szczęsny",
+      "fullName": "Wojciech Tomasz Szczęsny",
+      "number": 25,
+      "position": "Gardien",
+      "nationality": "🇵🇱 Pologne",
+      "country": "Pologne",
+      "age": 35,
+      "birthDate": "18 avril 1990",
+      "birthPlace": "Varsovie, Pologne",
+      "height": "1,96 m",
+      "foot": "Droit",
+      "joined": "2024",
+      "previousClubs": [
+        "Arsenal",
+        "AS Roma",
+        "Juventus"
+      ],
+      "photo": "assets/players/wojciech-szczesny.jpg",
+      "bio": "Gardien expérimenté arrivé en 2024, Wojciech Szczęsny apporte son expérience internationale au poste. Recordman de sélections avec la Pologne, il a brillé en Serie A avec la Juventus avant de rejoindre le Barça. Sa taille imposante et son sang-froid en font un rempart fiable."
+    },
+    {
+      "slug": "ronald-araujo",
+      "name": "Ronald Araújo",
+      "fullName": "Ronald Federico Araújo Pereira",
+      "number": 4,
+      "position": "Défenseur",
+      "nationality": "🇺🇾 Uruguay",
+      "country": "Uruguay",
+      "age": 26,
+      "birthDate": "7 mars 1999",
+      "birthPlace": "Rivera, Uruguay",
+      "height": "1,92 m",
+      "foot": "Droit",
+      "joined": "2018",
+      "previousClubs": [
+        "Boston River",
+        "Bayer Leverkusen"
+      ],
+      "photo": "assets/players/ronald-araujo.jpg",
+      "bio": "Pilier de la défense centrale, Ronald Araújo combine puissance physique et vitesse. Formé au Barça, il est devenu un des défenseurs les plus prometteurs d'Europe. International uruguayen, il est capable de jouer en défense centrale ou latéral droit."
+    },
+    {
+      "slug": "pau-cubarsi",
+      "name": "Pau Cubarsí",
+      "fullName": "Pau Cubarsí Paredes",
+      "number": 2,
+      "position": "Défenseur",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 18,
+      "birthDate": "22 janvier 2007",
+      "birthPlace": "Bescanó, Espagne",
+      "height": "1,84 m",
+      "foot": "Droit",
+      "joined": "2023",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/pau-cubarsi.jpg",
+      "bio": "Prodige de La Masia, Pau Cubarsí a fait sensation dès ses débuts en équipe première. Défenseur central mature au jeu posé, il a impressionné lors de l'Euro 2024 avec l'Espagne malgré son jeune âge. Considéré comme l'un des plus grands talents défensifs d'Europe."
+    },
+    {
+      "slug": "jules-kounde",
+      "name": "Jules Koundé",
+      "fullName": "Jules Olivier Koundé",
+      "number": 23,
+      "position": "Défenseur",
+      "nationality": "🇫🇷 France",
+      "country": "France",
+      "age": 27,
+      "birthDate": "12 novembre 1998",
+      "birthPlace": "Paris, France",
+      "height": "1,80 m",
+      "foot": "Droit",
+      "joined": "2022",
+      "previousClubs": [
+        "Bordeaux",
+        "Sevilla FC"
+      ],
+      "photo": "assets/players/jules-kounde.jpg",
+      "bio": "Polyvalent en défense centrale ou latéral droit, Jules Koundé est un des piliers du FC Barcelone depuis son arrivée en 2022. Champion du monde 2018 avec l'équipe de France, il se distingue par sa technique, sa vitesse et sa capacité à relancer proprement."
+    },
+    {
+      "slug": "alejandro-balde",
+      "name": "Alejandro Balde",
+      "fullName": "Alejandro Balde Martínez",
+      "number": 3,
+      "position": "Défenseur",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 22,
+      "birthDate": "18 octobre 2003",
+      "birthPlace": "Barcelone, Espagne",
+      "height": "1,75 m",
+      "foot": "Gauche",
+      "joined": "2021",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/alejandro-balde.jpg",
+      "bio": "Latéral gauche formé à La Masia, Alejandro Balde est l'un des grands espoirs du club. Rapide et technique, il monte souvent dans le couloir pour apporter du danger offensif. International espagnol, il représente l'avenir de la défense blaugrana."
+    },
+    {
+      "slug": "eric-garcia",
+      "name": "Eric García",
+      "fullName": "Eric García Martret",
+      "number": 24,
+      "position": "Défenseur",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 24,
+      "birthDate": "9 janvier 2001",
+      "birthPlace": "Martorell, Espagne",
+      "height": "1,82 m",
+      "foot": "Droit",
+      "joined": "2021",
+      "previousClubs": [
+        "La Masia",
+        "Manchester City"
+      ],
+      "photo": "assets/players/eric-garcia.jpg",
+      "bio": "Formé à La Masia puis passé par Manchester City, Eric García est revenu au Barça en 2021. Défenseur polyvalent capable de jouer en central ou latéral, il est apprécié pour son jeu au pied et sa compréhension tactique."
+    },
+    {
+      "slug": "pedri",
+      "name": "Pedri",
+      "fullName": "Pedro González López",
+      "number": 8,
+      "position": "Milieu",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 23,
+      "birthDate": "25 novembre 2002",
+      "birthPlace": "Tegueste, Espagne",
+      "height": "1,74 m",
+      "foot": "Droit",
+      "joined": "2020",
+      "previousClubs": [
+        "UD Las Palmas"
+      ],
+      "photo": "assets/players/pedri.jpg",
+      "bio": "Surnommé « le nouveau Iniesta », Pedri est le cerveau du milieu de terrain barcelonais. Révélation de l'Euro 2020, il combine vision du jeu, technique raffinée et une maturité rare pour son âge. Ballon d'Or du meilleur jeune en 2021, il est l'avenir du club."
+    },
+    {
+      "slug": "gavi",
+      "name": "Gavi",
+      "fullName": "Pablo Martín Páez Gavira",
+      "number": 6,
+      "position": "Milieu",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 21,
+      "birthDate": "5 août 2004",
+      "birthPlace": "Los Palacios, Espagne",
+      "height": "1,73 m",
+      "foot": "Droit",
+      "joined": "2021",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/gavi.jpg",
+      "bio": "Milieu de terrain combatif formé à La Masia, Gavi se distingue par son intensité, son pressing et sa capacité à porter le ballon. Plus jeune buteur de l'histoire de l'Espagne, il a remporté le Golden Boy 2022. Son énergie et son engagement incarnent l'esprit blaugrana."
+    },
+    {
+      "slug": "frenkie-de-jong",
+      "name": "Frenkie de Jong",
+      "fullName": "Frenkie de Jong",
+      "number": 21,
+      "position": "Milieu",
+      "nationality": "🇳🇱 Pays-Bas",
+      "country": "Pays-Bas",
+      "age": 28,
+      "birthDate": "12 mai 1997",
+      "birthPlace": "Gorinchem, Pays-Bas",
+      "height": "1,81 m",
+      "foot": "Droit",
+      "joined": "2019",
+      "previousClubs": [
+        "Willem II",
+        "Ajax Amsterdam"
+      ],
+      "photo": "assets/players/frenkie-de-jong.jpg",
+      "bio": "Milieu relayeur néerlandais, Frenkie de Jong est essentiel à la construction du jeu barcelonais. Recruté en 2019 après une saison brillante avec l'Ajax, il excelle dans la récupération et la progression du ballon. Son élégance technique rappelle les grands milieux hollandais."
+    },
+    {
+      "slug": "fermin-lopez",
+      "name": "Fermín López",
+      "fullName": "Fermín López Marín",
+      "number": 16,
+      "position": "Milieu",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 22,
+      "birthDate": "11 mai 2003",
+      "birthPlace": "El Catllar, Espagne",
+      "height": "1,74 m",
+      "foot": "Droit",
+      "joined": "2022",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/fermin-lopez.jpg",
+      "bio": "Milieu offensif formé à La Masia, Fermín López s'est imposé comme une révélation avec ses buts décisifs et son dynamisme. Capable de jouer en meneur de jeu ou sur le côté, il apporte créativité et percussion au milieu barcelonais."
+    },
+    {
+      "slug": "dani-olmo",
+      "name": "Dani Olmo",
+      "fullName": "Daniel Olmo Carrión",
+      "number": 20,
+      "position": "Milieu",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 27,
+      "birthDate": "7 mai 1998",
+      "birthPlace": "Terrassa, Espagne",
+      "height": "1,79 m",
+      "foot": "Droit",
+      "joined": "2024",
+      "previousClubs": [
+        "La Masia",
+        "Dinamo Zagreb",
+        "RB Leipzig"
+      ],
+      "photo": "assets/players/dani-olmo.jpg",
+      "bio": "Enfant du Barça revenu au club en 2024, Dani Olmo est un milieu offensif polyvalent. Champion d'Europe 2024 avec l'Espagne, il excelle dans les espaces entre les lignes et possède une finition redoutable. Sa créativité enrichit considérablement le jeu barcelonais."
+    },
+    {
+      "slug": "marc-bernal",
+      "name": "Marc Bernal",
+      "fullName": "Marc Bernal Casas",
+      "number": 22,
+      "position": "Milieu",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 18,
+      "birthDate": "26 mai 2007",
+      "birthPlace": "Barcelone, Espagne",
+      "height": "1,85 m",
+      "foot": "Gauche",
+      "joined": "2024",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/marc-bernal.jpg",
+      "bio": "Jeune milieu défensif prometteur issu de La Masia, Marc Bernal représente la nouvelle génération de talents formés au club. Physiquement imposant pour son âge, il se distingue par son sens du placement et sa capacité à récupérer le ballon."
+    },
+    {
+      "slug": "robert-lewandowski",
+      "name": "Robert Lewandowski",
+      "fullName": "Robert Lewandowski",
+      "number": 9,
+      "position": "Attaquant",
+      "nationality": "🇵🇱 Pologne",
+      "country": "Pologne",
+      "age": 37,
+      "birthDate": "21 août 1988",
+      "birthPlace": "Varsovie, Pologne",
+      "height": "1,85 m",
+      "foot": "Droit",
+      "joined": "2022",
+      "previousClubs": [
+        "Lech Poznań",
+        "Borussia Dortmund",
+        "Bayern Munich"
+      ],
+      "photo": "assets/players/robert-lewandowski.jpg",
+      "bio": "L'un des meilleurs buteurs de l'histoire du football, Robert Lewandowski est l'attaquant de référence du Barça depuis 2022. Ballon d'Or 2020 (The Best FIFA), il cumule plus de 600 buts en carrière. Son sens du but et son professionnalisme en font un leader dans le vestiaire."
+    },
+    {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "fullName": "Raphael Dias Belloli",
+      "number": 11,
+      "position": "Attaquant",
+      "nationality": "🇧🇷 Brésil",
+      "country": "Brésil",
+      "age": 28,
+      "birthDate": "24 décembre 1996",
+      "birthPlace": "Porto Alegre, Brésil",
+      "height": "1,76 m",
+      "foot": "Gauche",
+      "joined": "2022",
+      "previousClubs": [
+        "Sporting CP",
+        "Rennes",
+        "Leeds United"
+      ],
+      "photo": "assets/players/raphinha.jpg",
+      "bio": "Ailier brésilien dynamique, Raphinha apporte vitesse, dribbles et buts au Barça depuis 2022. Capable de jouer des deux côtés, il est devenu un élément clé de l'attaque blaugrana. Son énergie et son efficacité en font un joueur apprécié des supporters."
+    },
+    {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "fullName": "Lamine Yamal Nasraoui Ebana",
+      "number": 10,
+      "position": "Attaquant",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 18,
+      "birthDate": "13 juillet 2007",
+      "birthPlace": "Esplugues de Llobregat, Espagne",
+      "height": "1,80 m",
+      "foot": "Gauche",
+      "joined": "2023",
+      "previousClubs": [
+        "La Masia"
+      ],
+      "photo": "assets/players/lamine-yamal.jpg",
+      "bio": "Phénomène né en 2007, Lamine Yamal est devenu le plus jeune joueur et buteur de l'histoire de l'Euro lors de l'édition 2024, remportée avec l'Espagne. Prodige absolu de La Masia, il combine dribbles, vision et maturité exceptionnelle. Considéré comme l'un des plus grands talents mondiaux."
+    },
+    {
+      "slug": "ferran-torres",
+      "name": "Ferran Torres",
+      "fullName": "Ferran Torres García",
+      "number": 7,
+      "position": "Attaquant",
+      "nationality": "🇪🇸 Espagne",
+      "country": "Espagne",
+      "age": 25,
+      "birthDate": "29 février 2000",
+      "birthPlace": "Foios, Espagne",
+      "height": "1,84 m",
+      "foot": "Droit",
+      "joined": "2022",
+      "previousClubs": [
+        "Valencia CF",
+        "Manchester City"
+      ],
+      "photo": "assets/players/ferran-torres.jpg",
+      "bio": "Attaquant polyvalent capable de jouer sur les ailes ou en pointe, Ferran Torres est revenu en Espagne en 2022 après Manchester City. International espagnol, il se distingue par sa vitesse, son jeu de tête et son sens du but."
+    },
+    {
+      "slug": "marcus-rashford",
+      "name": "Marcus Rashford",
+      "fullName": "Marcus Rashford",
+      "number": 14,
+      "position": "Attaquant",
+      "nationality": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre",
+      "country": "Angleterre",
+      "age": 28,
+      "birthDate": "31 octobre 1997",
+      "birthPlace": "Manchester, Angleterre",
+      "height": "1,85 m",
+      "foot": "Droit",
+      "joined": "2025",
+      "previousClubs": [
+        "Manchester United"
+      ],
+      "photo": "assets/players/marcus-rashford.jpg",
+      "bio": "Attaquant anglais formé à Manchester United, Marcus Rashford a rejoint le Barça en 2025. Rapide, puissant et capable de marquer des buts décisifs, il apporte son expérience internationale et sa capacité à jouer sur les ailes ou en attaque centrale."
+    }
+  ]
+}

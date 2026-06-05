@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Administration — Portal Blaugrana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin-body">
+  <header class="admin-header">
+    <div class="container admin-header__inner">
+      <h1>Administration Portal Blaugrana</h1>
+      <div class="admin-header__actions">
+        <span class="admin-badge admin-badge--warn" id="githubBadge">GitHub non configuré</span>
+        <button type="button" class="btn btn--primary" id="publishBtn">Publier en ligne</button>
+        <button type="button" class="btn btn--outline" id="exportBtn">Exporter JSON</button>
+        <button type="button" class="btn btn--ghost-admin" id="logoutBtn">Déconnexion</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="admin-status" id="adminStatus" hidden></div>
+
+  <div class="container admin-layout">
+    <nav class="admin-tabs">
+      <button type="button" class="admin-tab active" data-tab="team">Effectif</button>
+      <button type="button" class="admin-tab" data-tab="news">Actualités</button>
+      <button type="button" class="admin-tab" data-tab="club">Club</button>
+      <button type="button" class="admin-tab" data-tab="settings">Paramètres</button>
+    </nav>
+
+    <!-- EFFECTIF -->
+    <section class="admin-panel" id="panel-team">
+      <div class="admin-panel__header">
+        <h2>Effectif</h2>
+        <div class="admin-inline">
+          <label>Saison <input type="text" id="teamSeason" class="admin-input-inline"></label>
+          <button type="button" class="btn btn--primary" id="addPlayerBtn">+ Joueur</button>
+        </div>
+      </div>
+      <div class="admin-list" id="playersList"></div>
+
+      <form class="admin-form" id="playerForm" hidden>
+        <h3 id="playerFormTitle">Joueur</h3>
+        <div class="admin-form__grid">
+          <label>Nom affiché <input name="name" required></label>
+          <label>Nom complet <input name="fullName"></label>
+          <label>Numéro <input name="number" type="number" required></label>
+          <label>Poste
+            <select name="position">
+              <option>Gardien</option>
+              <option>Défenseur</option>
+              <option>Milieu</option>
+              <option>Attaquant</option>
+            </select>
+          </label>
+          <label>Nationalité (emoji) <input name="nationality" placeholder="🇪🇸 Espagne"></label>
+          <label>Pays <input name="country"></label>
+          <label>Âge <input name="age" type="number"></label>
+          <label>Date de naissance <input name="birthDate"></label>
+          <label>Lieu de naissance <input name="birthPlace"></label>
+          <label>Taille <input name="height" placeholder="1,80 m"></label>
+          <label>Pied fort <input name="foot"></label>
+          <label>Au club depuis <input name="joined"></label>
+          <label>Photo (chemin) <input name="photo" placeholder="assets/players/pedri.jpg"></label>
+          <label class="admin-form__full">Clubs précédents (séparés par virgule) <input name="previousClubs"></label>
+          <label class="admin-form__full">Biographie <textarea name="bio" rows="4"></textarea></label>
+        </div>
+        <div class="admin-form__actions">
+          <button type="submit" class="btn btn--primary">Enregistrer</button>
+          <button type="button" class="btn btn--outline" id="cancelPlayerBtn">Annuler</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- ACTUALITÉS -->
+    <section class="admin-panel" id="panel-news" hidden>
+      <div class="admin-panel__header">
+        <h2>Actualités</h2>
+        <button type="button" class="btn btn--primary" id="addArticleBtn">+ Article</button>
+      </div>
+      <div class="admin-list" id="articlesList"></div>
+
+      <form class="admin-form" id="articleForm" hidden>
+        <h3 id="articleFormTitle">Article</h3>
+        <div class="admin-form__grid">
+          <label class="admin-form__full">Titre (français) <input name="titleFr" required></label>
+          <label class="admin-form__full">Résumé (français) <textarea name="summaryFr" rows="4" required></textarea></label>
+          <label>Source <input name="source" placeholder="Marca"></label>
+          <label>Type
+            <select name="topic">
+              <option value="equipe">Équipe première</option>
+              <option value="mercato">Mercato</option>
+            </select>
+          </label>
+          <label>Date <input name="date" type="datetime-local" required></label>
+          <label>Slug (URL) <input name="slug" placeholder="auto si vide"></label>
+          <label class="admin-form__full">Lien source originale <input name="link" type="url"></label>
+          <label class="admin-form__full">Image (URL) <input name="image" type="url"></label>
+        </div>
+        <div class="admin-form__actions">
+          <button type="submit" class="btn btn--primary">Enregistrer</button>
+          <button type="button" class="btn btn--outline" id="cancelArticleBtn">Annuler</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- CLUB -->
+    <section class="admin-panel" id="panel-club" hidden>
+      <h2>Le Club</h2>
+
+      <h3 class="admin-subtitle">Statistiques (page d'accueil)</h3>
+      <div class="admin-form__grid" id="clubStats"></div>
+
+      <h3 class="admin-subtitle">Informations <button type="button" class="btn btn--sm" id="addInfoBtn">+</button></h3>
+      <div id="clubInfoList"></div>
+
+      <h3 class="admin-subtitle">Histoire <button type="button" class="btn btn--sm" id="addHistoryBtn">+</button></h3>
+      <div id="historyList"></div>
+
+      <h3 class="admin-subtitle">Palmarès <button type="button" class="btn btn--sm" id="addTrophyBtn">+</button></h3>
+      <div id="trophiesList"></div>
+    </section>
+
+    <!-- PARAMÈTRES -->
+    <section class="admin-panel" id="panel-settings" hidden>
+      <h2>Paramètres GitHub</h2>
+      <p class="admin-help">
+        Pour que les modifications soient visibles en ligne sur GitHub Pages, connectez votre dépôt GitHub.
+        Un token avec permission <strong>Contents: Read and write</strong> est nécessaire.
+      </p>
+
+      <form class="admin-form" id="githubForm">
+        <div class="admin-form__grid">
+          <label>Utilisateur GitHub <input id="ghOwner" required placeholder="votre-username"></label>
+          <label>Dépôt <input id="ghRepo" required placeholder="fc-barcelona-site"></label>
+          <label>Branche <input id="ghBranch" value="main"></label>
+          <label class="admin-form__full">
+            Token d'accès (PAT)
+            <input id="ghToken" type="password" required placeholder="github_pat_...">
+            <small>Créez un token sur GitHub → Settings → Developer settings → Fine-grained tokens</small>
+          </label>
+        </div>
+        <div class="admin-form__actions">
+          <button type="submit" class="btn btn--primary">Enregistrer</button>
+          <button type="button" class="btn btn--outline" id="testGithubBtn">Tester la connexion</button>
+        </div>
+      </form>
+
+      <div class="admin-info-box">
+        <h3>Comment ça marche ?</h3>
+        <ol>
+          <li>Modifiez le contenu dans les onglets Effectif, Actualités ou Club.</li>
+          <li>Cliquez sur <strong>Publier en ligne</strong> — les fichiers JSON sont commités sur GitHub.</li>
+          <li>GitHub Pages redéploie automatiquement le site (1-2 minutes).</li>
+        </ol>
+        <p><strong>Lien d'accès admin :</strong> <code>admin.html?key=VOTRE_CLE</code><br>
+        Changez la clé dans <code>js/admin/config.js</code> avant la mise en ligne.</p>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/admin/admin.js" type="module"></script>
+</body>
+</html>

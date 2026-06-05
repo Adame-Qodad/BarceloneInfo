@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "ligaTitles": 28,
+    "uclTitles": 5,
+    "founded": 1899
+  },
+  "info": [
+    { "label": "Nom complet", "value": "Futbol Club Barcelona" },
+    { "label": "Surnom", "value": "Barça, Blaugrana, Culés" },
+    { "label": "Fondation", "value": "29 novembre 1899" },
+    { "label": "Stade", "value": "Spotify Camp Nou (99 354 places)" },
+    { "label": "Président", "value": "Joan Laporta" },
+    { "label": "Entraîneur", "value": "Hansi Flick" },
+    { "label": "Championnat", "value": "La Liga (Espagne)" },
+    { "label": "Couleurs", "value": "Bleu et grenat (Blaugrana)" },
+    { "label": "Devise", "value": "Més que un club" }
+  ],
+  "history": [
+    {
+      "year": "1899",
+      "title": "Fondation du club",
+      "description": "Le FC Barcelone est fondé le 29 novembre 1899 par un groupe de footballeurs suisses, anglais et catalans, menés par Joan Gamper."
+    },
+    {
+      "year": "1925",
+      "title": "Premier Camp de Les Corts",
+      "description": "Le club inaugure son propre stade, le Camp de Les Corts, marquant le début de son ascension vers le sommet du football européen."
+    },
+    {
+      "year": "1957",
+      "title": "Inauguration du Camp Nou",
+      "description": "Le Camp Nou ouvre ses portes le 24 septembre 1957. Il deviendra le plus grand stade d'Europe."
+    },
+    {
+      "year": "1992",
+      "title": "Première Coupe d'Europe",
+      "description": "Sous la direction de Johan Cruyff, le Barça remporte sa première Ligue des Champions à Wembley face à la Sampdoria."
+    },
+    {
+      "year": "2009",
+      "title": "L'année des six trophées",
+      "description": "Avec Pep Guardiola, le Barça remporte les six compétitions majeures : Liga, Copa del Rey, LDC, Supercoupe d'Espagne, Supercoupe d'Europe et Coupe du Monde des clubs."
+    },
+    {
+      "year": "2015",
+      "title": "Le triplé de MSN",
+      "description": "Messi, Suárez et Neymar mènent le club à un nouveau triplé historique sous Luis Enrique."
+    },
+    {
+      "year": "2021",
+      "title": "Départ de Messi",
+      "description": "Lionel Messi quitte le club après 21 ans, marquant la fin d'une ère légendaire."
+    },
+    {
+      "year": "2024",
+      "title": "Émergence de Lamine Yamal",
+      "description": "Lamine Yamal devient la sensation du football mondial, symbole d'une nouvelle génération blaugrana."
+    }
+  ],
+  "trophies": [
+    { "icon": "🏆", "name": "La Liga", "count": 28 },
+    { "icon": "⭐", "name": "Ligue des Champions", "count": 5 },
+    { "icon": "🥇", "name": "Coupe du Roi", "count": 31 },
+    { "icon": "🌍", "name": "Coupe du Monde des Clubs", "count": 3 },
+    { "icon": "🇪🇺", "name": "Supercoupe d'Europe", "count": 5 },
+    { "icon": "🏅", "name": "Supercoupe d'Espagne", "count": 15 },
+    { "icon": "🎖️", "name": "Coupe des Coupes", "count": 4 },
+    { "icon": "⚽", "name": "Coupe de la Liga", "count": 2 }
+  ]
+}
