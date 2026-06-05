@@ -1,6 +1,17 @@
+/** Base URL du site (compatible GitHub Pages en sous-dossier) */
+export function getSiteBase() {
+  const baseTag = document.querySelector('base')?.href;
+  if (baseTag) return baseTag;
+  return new URL('.', window.location.href).href;
+}
+
+export function resolvePath(path) {
+  if (!path || path.startsWith('http')) return path;
+  return new URL(path, getSiteBase()).href;
+}
+
 export async function loadJSON(path) {
-  const base = document.querySelector('base')?.href || window.location.origin + '/';
-  const url = path.startsWith('http') ? path : new URL(path, base).href;
+  const url = resolvePath(path);
   const response = await fetch(url);
   if (!response.ok) throw new Error(`Erreur chargement ${path}`);
   return response.json();
@@ -64,8 +75,9 @@ export function renderNewsCard(article) {
 }
 
 export function renderPlayerCard(player) {
+  const photoSrc = player.photo ? resolvePath(player.photo) : '';
   const photoHtml = player.photo
-    ? `<img class="player-card__photo" src="${player.photo}" alt="${player.name}" loading="lazy" onerror="this.classList.add('player-card__photo--fallback')">`
+    ? `<img class="player-card__photo" src="${photoSrc}" alt="${player.name}" loading="lazy" onerror="this.classList.add('player-card__photo--fallback')">`
     : `<div class="player-card__photo player-card__photo--fallback">${player.number}</div>`;
 
   return `
@@ -82,8 +94,9 @@ export function renderPlayerCard(player) {
 }
 
 export function renderPlayerCardCompact(player) {
+  const photoSrc = player.photo ? resolvePath(player.photo) : '';
   const photoHtml = player.photo
-    ? `<img class="player-card__photo" src="${player.photo}" alt="${player.name}" loading="lazy">`
+    ? `<img class="player-card__photo" src="${photoSrc}" alt="${player.name}" loading="lazy">`
     : `<div class="player-card__photo player-card__photo--fallback">${player.number}</div>`;
 
   return `

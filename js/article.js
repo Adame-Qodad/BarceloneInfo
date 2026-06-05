@@ -1,5 +1,5 @@
 import { initNavigation } from './nav.js';
-import { loadJSON, formatDate, getCategoryLabel } from './utils.js';
+import { loadJSON, formatDate, getCategoryLabel, resolvePath } from './utils.js';
 
 function getSlug() {
   return new URLSearchParams(window.location.search).get('slug');
@@ -22,7 +22,7 @@ function renderArticle(article) {
 
   const imageEl = document.getElementById('articleImage');
   if (article.image) {
-    imageEl.src = article.image;
+    imageEl.src = resolvePath(article.image);
     imageEl.alt = title;
   } else {
     imageEl.replaceWith(Object.assign(document.createElement('div'), {

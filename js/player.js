@@ -1,5 +1,5 @@
 import { initNavigation } from './nav.js';
-import { loadJSON } from './utils.js';
+import { loadJSON, resolvePath } from './utils.js';
 
 function getSlug() {
   return new URLSearchParams(window.location.search).get('slug');
@@ -16,7 +16,7 @@ function renderPlayer(player) {
 
   const photoEl = document.getElementById('playerPhoto');
   if (player.photo) {
-    photoEl.src = player.photo;
+    photoEl.src = resolvePath(player.photo);
     photoEl.alt = player.name;
   } else {
     photoEl.replaceWith(Object.assign(document.createElement('div'), {
@@ -72,7 +72,7 @@ async function initPlayer() {
     if (others.length) {
       document.getElementById('relatedPlayers').innerHTML = others.map(p => `
         <a href="joueur.html?slug=${p.slug}" class="related-player">
-          ${p.photo ? `<img src="${p.photo}" alt="${p.name}">` : `<div class="related-player__fallback">${p.number}</div>`}
+          ${p.photo ? `<img src="${resolvePath(p.photo)}" alt="${p.name}">` : `<div class="related-player__fallback">${p.number}</div>`}
           <span>${p.name}</span>
         </a>
       `).join('');

@@ -14,8 +14,11 @@ let clubData = null;
 let editingPlayerIndex = null;
 let editingArticleIndex = null;
 
+import { resolvePath } from '../utils.js';
+
 async function loadJSON(path) {
-  const res = await fetch(path + '?t=' + Date.now());
+  const url = resolvePath(path);
+  const res = await fetch(url + '?t=' + Date.now());
   if (!res.ok) throw new Error(`Impossible de charger ${path}`);
   return res.json();
 }
