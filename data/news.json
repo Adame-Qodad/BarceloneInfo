@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-06T03:58:42.663Z",
+  "lastUpdated": "2026-06-06T08:40:58.104Z",
   "articles": [
+    {
+      "title": "Portazo de Dani Olmo",
+      "link": "https://www.marca.com/futbol/barcelona/2026/06/06/portazo-dani-olmo.html",
+      "excerpt": "Rechaza todas las ofertas de otros equipos y se queda en el Barça con mejora de contrato",
+      "date": "2026-06-06T08:15:03.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/06/6a23d4dfcbd3f.jpeg",
+      "slug": "portazo-de-dani-olmo-8xsdjd",
+      "topic": "equipe",
+      "titleFr": "Portazo de Dani Olmo",
+      "summaryFr": "Il rejette toutes les offres d'autres équipes et reste au Barça avec une amélioration de contrat"
+    },
     {
       "title": "A Rashford se le agota el tiempo",
       "link": "https://www.marca.com/futbol/barcelona/2026/06/05/rashford-le-agota.html",
@@ -11,8 +24,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/05/6a228ebf60cac.jpeg",
       "slug": "a-rashford-se-le-agota-el-tiempo-3h8y64",
       "topic": "mercato",
-      "titleFr": "A Rashford se le agota el tiempo",
-      "summaryFr": "En diez días caduca la opción de compra del Barça"
+      "titleFr": "Rashford n'a plus de temps",
+      "summaryFr": "Dans dix jours, l'option d'achat du Barça expire"
     },
     {
       "title": "Yuste: \"Los tuits del Atlético me parecieron de muy mal gusto\"",
@@ -24,8 +37,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/05/6a230a00e7d57.jpeg",
       "slug": "yuste-los-tuits-del-atletico-me-parecieron-de-muy-mal-g-3rdnli",
       "topic": "equipe",
-      "titleFr": "Yuste: \"Los tuits del Atlético me parecieron de muy mal gusto\"",
-      "summaryFr": "El Barça se pronuncia por primera vez sobre los mensajes del conjunto madrileño"
+      "titleFr": "Yuste : « Les tweets de l'Atlético m'ont paru de très mauvais goût »",
+      "summaryFr": "Le Barça se prononce pour la première fois sur les messages de l'équipe madrilène"
     },
     {
       "title": "Balde tiene la llave de Cucurella",
@@ -37,8 +50,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/04/6a219d4126e73.jpeg",
       "slug": "balde-tiene-la-llave-de-cucurella-qlbr7e",
       "topic": "equipe",
-      "titleFr": "Balde tiene la llave de Cucurella",
-      "summaryFr": "La salida del azulgrana abriría las puertas del Barça al defensa del Chelsea"
+      "titleFr": "Balde a la clé de Cucurella",
+      "summaryFr": "Le départ du Barça ouvrirait les portes du Barça au défenseur de Chelsea"
     },
     {
       "title": "Definidas las fechas de la pretemporada con amistoso ante el Birmingham",
@@ -50,8 +63,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/05/6a22a37acf3ab.jpeg",
       "slug": "definidas-las-fechas-de-la-pretemporada-con-amistoso-an-51zz14",
       "topic": "mercato",
-      "titleFr": "Definidas las fechas de la pretemporada con amistoso ante el Birmingham",
-      "summaryFr": "EL Barça hará un stage en Inglaterra del 27 de julio al 3 de agosto"
+      "titleFr": "Les dates de la pré-saison ont été définies avec un match amical contre Birmingham",
+      "summaryFr": "LE Barça effectuera un stage en Angleterre du 27 juillet au 3 août"
     },
     {
       "title": "El Barça, tranquilo y sin prisas con el traspaso de Ansu Fati al Mónaco",
@@ -63,8 +76,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/04/6a219044e67cf.jpeg",
       "slug": "el-barca-tranquilo-y-sin-prisas-con-el-traspaso-de-ansu-8fdyr4",
       "topic": "mercato",
-      "titleFr": "El Barça, tranquilo y sin prisas con el traspaso de Ansu Fati al Mónaco",
-      "summaryFr": "Los clubs están ultimando unas variables pero el acuerdo es total y la operación no peligra"
+      "titleFr": "Le Barça, tranquille et sans hâte avec le transfert d'Ansu Fati à Monaco",
+      "summaryFr": "Les clubs sont en train de finaliser quelques variables mais l'accord est total et l'opération n'est pas en danger"
     },
     {
       "title": "Yuste: \"La salud mental para el Barça no es un estigma, es una prioridad\"",
@@ -76,8 +89,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f78a83077d5.jpeg",
       "slug": "yuste-la-salud-mental-para-el-barca-no-es-un-estigma-es-yy95ol",
       "topic": "equipe",
-      "titleFr": "Yuste: \"La salud mental para el Barça no es un estigma, es una prioridad\"",
-      "summaryFr": "El club y su Fundación presentan una iniciativa pionera de bienestar emocional"
+      "titleFr": "Yuste : « La santé mentale pour le Barça n'est pas un stigmate, c'est une priorité »",
+      "summaryFr": "Le club et sa Fondation présentent une initiative pionnière de bien-être émotionnel"
     },
     {
       "title": "Koeman: \"Hubiera preferido ver a Dumfries en el Barça\"",
@@ -89,8 +102,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/04/6a214ccc0cc6f.jpeg",
       "slug": "koeman-hubiera-preferido-ver-a-dumfries-en-el-barca-x6czri",
       "topic": "mercato",
-      "titleFr": "Koeman: \"Hubiera preferido ver a Dumfries en el Barça\"",
-      "summaryFr": "El seleccionador neerlandés cree que el jugador se merece su posible traspaso al Madrid, pero lamenta que no juegue en su antiguo equipo"
+      "titleFr": "Koeman : « J'aurais préféré voir Dumfries au Barça »",
+      "summaryFr": "Le sélectionneur néerlandais estime que le joueur mérite son éventuel transfert à Madrid, mais regrette qu'il ne joue pas dans son ancienne équipe"
     },
     {
       "title": "Mensaje directo de Koundé: \"Espero seguir en el Barça\"",
@@ -102,8 +115,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2043db862f8.jpeg",
       "slug": "mensaje-directo-de-kounde-espero-seguir-en-el-barca-uclggs",
       "topic": "equipe",
-      "titleFr": "Mensaje directo de Koundé: \"Espero seguir en el Barça\"",
-      "summaryFr": "El francés deja claro su futuro"
+      "titleFr": "Message direct de Koundé : « J'espère rester au Barça »",
+      "summaryFr": "Le Français indique clairement son avenir"
     },
     {
       "title": "Bernardo Silva: el liderazgo que anhela Flick para el Barça",
@@ -115,8 +128,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/01/6a1d9cfd40571.jpeg",
       "slug": "bernardo-silva-el-liderazgo-que-anhela-flick-para-el-ba-qe2ny9",
       "topic": "equipe",
-      "titleFr": "Bernardo Silva: el liderazgo que anhela Flick para el Barça",
-      "summaryFr": "Echa en falta un jugador que asuma responsabilidades tras la salida de Iñigo Martínez"
+      "titleFr": "Bernardo Silva : le leadership que souhaite Flick pour le Barça",
+      "summaryFr": "Il manque un joueur qui assume des responsabilités après le départ d'Iñigo Martínez"
     },
     {
       "title": "El Barça se gana enemigos",
@@ -128,8 +141,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1ed314ae813.jpeg",
       "slug": "el-barca-se-gana-enemigos-zexqtc",
       "topic": "equipe",
-      "titleFr": "El Barça se gana enemigos",
-      "summaryFr": "Las negociaciones por jugadores tensan la relación de la entidad culé con varios clubes"
+      "titleFr": "Le Barça se fait des ennemis",
+      "summaryFr": "Les négociations par joueurs tendent la relation de l'entité culé avec plusieurs clubs"
     },
     {
       "title": "El Barça pone los dientes largos con Lamine: ¡Está a tope para el Mundial!",
@@ -141,7 +154,7 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/bKSww1g7fp5ZQ14kW.jpeg",
       "slug": "el-barca-pone-los-dientes-largos-con-lamine-esta-a-tope-y38c6u",
       "topic": "equipe",
-      "titleFr": "El Barça pone los dientes largos con Lamine: ¡Está a tope para el Mundial!",
+      "titleFr": "Le Barça a les dents longues avec Lamine : il est au top pour la Coupe du Monde !",
       "summaryFr": ""
     },
     {
@@ -154,8 +167,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/01/6a1d4488e028f.jpeg",
       "slug": "el-barca-le-busca-sitio-a-bernardo-silva-gfhmkn",
       "topic": "equipe",
-      "titleFr": "El Barça le busca sitio a Bernardo Silva",
-      "summaryFr": "El portugués insiste en firmar, pero Flick y la Dirección Deportiva analizan su encaje aún"
+      "titleFr": "Le Barça cherche une place pour Bernardo Silva",
+      "summaryFr": "Le Portugais insiste pour signer, mais Flick et la Direction Sportive analysent encore son emboîtement"
     },
     {
       "title": "Mercato – Barça : les transferts de janvier 2025 en direct - TOP Mercato",
@@ -169,19 +182,6 @@
       "topic": "mercato",
       "titleFr": "Mercato – Barça : les transferts de janvier 2025 en direct - TOP Mercato",
       "summaryFr": "Mercato – Barça : les transferts de janvier 2025 en direct TOP Mercato"
-    },
-    {
-      "title": "Le Barça a bouclé son premier transfert de l’été - Sports.fr",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmJ6MXBpOHJNR19GcmhUUmY5SnpZZEIweVVPdkRyb0E5djVKYlkybDdOTGdnXzNaam9mbXBaSkRRdEFXeXlnTUZOakJUZnl3VHlEQ1lQTHdLN2NHZ2pvZU92a2Rubk1wV3gwTkk0R1hvTkdteUY1XzJBM1JGVFlVSURELUNqSzRJQkNsbGZuaUkyMndxY05YaG5WSnVNNU0?oc=5",
-      "excerpt": "Le Barça a bouclé son premier transfert de l’été Sports.fr",
-      "date": "2026-02-27T08:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "le-barca-a-boucle-son-premier-transfert-de-l-ete-sports-bya78",
-      "topic": "mercato",
-      "titleFr": "Le Barça a bouclé son premier transfert de l’été - Sports.fr",
-      "summaryFr": "Le Barça a bouclé son premier transfert de l’été Sports.fr"
     },
     {
       "title": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90min.com",
@@ -210,19 +210,6 @@
       "summaryFr": "Mercato – Le Barça va s’offrir les 4 Fantastiques du futur ! TOP Mercato"
     },
     {
-      "title": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen - TOP Mercato",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcG1CVEtVODBmcUU0UHZUWFlWUmE5cjkzS1FCSXlaSDE5Q0dEN2NOUjBBY1hUUUc0TV9HLVJZbk1zd1FNUi1tT2ZLQ3Q0TFNEWVBXTEQ3SDAzTVpGMDJuSFlZOGZkLTdYSHZoUHZSVE13ZW94T2ttNV9ucmFLLUFNRmRHcFpqaXJFeDRoZFFjN1VQMlVxeXJHeUstNGp2Y054UlRtSk5aWmdhTko3b3ppM1dpR05MN0VYVkVjSXZsVmlKdw?oc=5",
-      "excerpt": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen TOP Mercato",
-      "date": "2025-12-24T08:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "mercato-le-barca-et-l-atletico-madrid-a-la-lutte-pour-s-vm0t6u",
-      "topic": "mercato",
-      "titleFr": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen - TOP Mercato",
-      "summaryFr": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen TOP Mercato"
-    },
-    {
       "title": "Mercato Barça : déjà un accord pour l’arrivée d’une pépite contre 25 M€ - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2pFWjU0NXJfZldSY2VMRDNCd2NZOXhLNHRWZ2RkSFZlWFlwZXltamJiU01rRTlCdGRpRjkxOWJZUUtMMm9MZUNaLWJ4R3B4U09NQVFBNkcweHFJajB1dVd1cEpuSXI3MUQ1VF9EaEU0Y3ZvVUVib2FJaVhnTUpNc19URlZ5UE8tX2JSeFl0ZVR3SEt3SUxiQzBLakJVaGQzczRER3Fn?oc=5",
       "excerpt": "Mercato Barça : déjà un accord pour l’arrivée d’une pépite contre 25 M€ TOP Mercato",
@@ -247,19 +234,6 @@
       "topic": "mercato",
       "titleFr": "Mercato: le Barça pense à prêter Roony Bardghji, faute de pouvoir l'inscrire en équipe première - RMC Sport",
       "summaryFr": "Mercato: le Barça pense à prêter Roony Bardghji, faute de pouvoir l'inscrire en équipe première RMC Sport"
-    },
-    {
-      "title": "Le Barça s’offre une pépite croate - Foot Mercato",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUU1eWlMRzB0bEhfS1ptYkxaSlNCLWtKOVI4Z2ZiQzRQOTlRcGlQa0pNVm9RMDRscWh0OF9yemgtSWc1d1RhWHdmOGZVellOSnhzaFBQeUJYVGZKQ0xOWWo1TTM2Vk5kcEtJVlF4c0dMRkdoNk5IVVdTenR2ckNFaF9sMDhFcG5TS1E?oc=5",
-      "excerpt": "Le Barça s’offre une pépite croate Foot Mercato",
-      "date": "2025-07-08T07:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "le-barca-s-offre-une-pepite-croate-foot-mercato-okibqm",
-      "topic": "mercato",
-      "titleFr": "Le Barça s’offre une pépite croate - Foot Mercato",
-      "summaryFr": "Le Barça s’offre une pépite croate Foot Mercato"
     },
     {
       "title": "FC Barcelone mercato : Départ surprise de la pépite du Barça, Noah Darvich - 90min.com",
@@ -336,8 +310,8 @@
       "image": null,
       "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-xxnjej",
       "topic": "equipe",
-      "titleFr": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
-      "summaryFr": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone"
+      "titleFr": "Seven La Masia graduates make FC Barcelone first team debuts - Site officiel du FC Barcelone",
+      "summaryFr": "Seven La Masia graduates make FC Barcelone first team debuts Site officiel du FC Barcelone"
     },
     {
       "title": "Accord trouvé entre le Barça et le FC Séville pour le transfert de Jules Kounde - Site officiel du FC Barcelone",
@@ -364,19 +338,6 @@
       "topic": "equipe",
       "titleFr": "First team collects Barça Players Award 2020 - Site officiel du FC Barcelone",
       "summaryFr": "First team collects Barça Players Award 2020 Site officiel du FC Barcelone"
-    },
-    {
-      "title": "Setien : \"Récupérer Suarez va être notre transfert du confinement\" - FC Barcelona",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzJ2T2NIcDNkZl9zeEp2bmxZVjRJd0tTQmlQUlNXQnJKcnJhalJvTXJ6SFNNLWRod0dCR1FWalNLckRJTEdQLXI3d3pWTHk5VGkxUDloZzd2Z28xXzY2NUE5NHFYLWkyU2FFYW85U2V5OWZsWnVwb1dYeDVKSjR2Z1ZjYXRBeGN6MUZJR1k2MjFoaUlfQVU0MktHaGNHNHNOYUtsNkFhNnBVazFpMmI1R1hWS3BBUUdWY3BBNDBpRlJuZlZu?oc=5",
-      "excerpt": "Setien : \"Récupérer Suarez va être notre transfert du confinement\" FC Barcelona",
-      "date": "2020-05-05T07:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "setien-recuperer-suarez-va-etre-notre-transfert-du-conf-taidlp",
-      "topic": "mercato",
-      "titleFr": "Setien : \"Récupérer Suarez va être notre transfert du confinement\" - FC Barcelona",
-      "summaryFr": "Setien : \"Récupérer Suarez va être notre transfert du confinement\" FC Barcelona"
     },
     {
       "title": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack - Site officiel du FC Barcelone",
