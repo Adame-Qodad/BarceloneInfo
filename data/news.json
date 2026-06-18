@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-06-18T10:39:07.857Z",
+  "lastUpdated": "2026-06-18T15:38:35.087Z",
   "articles": [
+    {
+      "title": "Joan García, una locura de año",
+      "link": "https://www.marca.com/futbol/barcelona/2026/06/18/joan-garcia-ano-locura.html",
+      "excerpt": "El 18 de junio de 2025 el Barça anunció el fichaje del portero catalán",
+      "date": "2026-06-18T14:59:07.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/17/6a3296edb1008.jpeg",
+      "slug": "joan-garcia-una-locura-de-ano-6jmcam",
+      "topic": "mercato",
+      "titleFr": "Joan García, una locura de año",
+      "summaryFr": "Le 18 juin 2025, le Barça annonce la signature du gardien catalan"
+    },
+    {
+      "title": "El Mundial, un arma de doble filo para Rashford",
+      "link": "https://www.marca.com/futbol/barcelona/2026/06/18/mundial-arma-doble-filo-rashford.html",
+      "excerpt": "Quiere seguir en el Barça, pero su rendimiento con Inglaterra puede complicar la operación",
+      "date": "2026-06-18T10:56:34.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/18/6a33c3176f2b5.jpeg",
+      "slug": "el-mundial-un-arma-de-doble-filo-para-rashford-n05cc8",
+      "topic": "equipe",
+      "titleFr": "Le Mondial, une arme à double tranchant pour Rashford",
+      "summaryFr": "Il veut rester au Barça, mais ses performances avec l'Angleterre peuvent compliquer l'opération"
+    },
     {
       "title": "La nueva equipación del Barça, el 1 de julio: detalles dorados, pantalones azules, tres tonos de rojo y azul...",
       "link": "https://www.marca.com/futbol/barcelona/2026/06/18/nueva-equipacion-barca-1-julio-detalles-dorados-pantalones-azules-tres-tonos-rojo-azul.html",
@@ -275,32 +301,6 @@
       "summaryFr": "Al Ahly officialise le transfert d'Hamza Abdelkarim à Barcelone, attaquant junior arrivé prêté à 'Can Barça' en février"
     },
     {
-      "title": "El Barça quiere la final de la Champions League 2029",
-      "link": "https://www.marca.com/futbol/barcelona/2026/06/10/barca-quiere-final-champions-league-2029.html",
-      "excerpt": "El club culé junto con Ayuntamiento y Federación han presentado la documentación para que el Camp Nou opte a ser la sede de la final",
-      "date": "2026-06-10T20:17:57.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29c63ca174e.jpeg",
-      "slug": "el-barca-quiere-la-final-de-la-champions-league-2029-ronxjn",
-      "topic": "equipe",
-      "titleFr": "Le Barça veut la finale de la Ligue des Champions 2029",
-      "summaryFr": "Le club culé ainsi que la Mairie et la Fédération ont présenté la documentation pour que le Camp Nou choisisse d'accueillir la finale"
-    },
-    {
-      "title": "El Barça, en contacto estrecho con todos sus internacionales: no quiere sorpresas",
-      "link": "https://www.marca.com/futbol/barcelona/2026/06/10/barca-contacto-estrecho-todos-internacionales-quiere-sorpresas.html",
-      "excerpt": "Los profesionales del área médica conversan con las federaciones y los futbolistas",
-      "date": "2026-06-10T17:30:05.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a27ff50a15f1.jpeg",
-      "slug": "el-barca-en-contacto-estrecho-con-todos-sus-internacion-wf9nwg",
-      "topic": "equipe",
-      "titleFr": "Le Barça, en contact étroit avec tous ses internationaux : il ne veut pas de surprises",
-      "summaryFr": "Les professionnels du domaine médical discutent avec les fédérations et les footballeurs"
-    },
-    {
       "title": "Hakimi cash sur son avenir au PSG, le Barça fixé sur le prix de Cucurella, une première offre pour Bastoni… Les 3 infos mercato du jour - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWTgyX0t3cTV2VFRjTXZvcE4xTmNJVnE2RlpOLUpZbGUwR21FN1ZIaHd2N05kcDFqYjZrSEVPbFZSd29GUHcxYTZWOEFiOHk4cjZwUkREY01KOFJMeG5YMVZmRkdvdkVJeTFZcm1raVJlZ2NJcHFlSVhUT3JiU3RqUWN3YUl5WTQ3bTdDbnVzN3ZkY1hxeXd1Sy1CNjRKanh0a1k0b1Y3bF94azNhem4yelRFWWFIbmprbUlEeWNHWnEyUVBONllybVJpRVhTTkVuTFNOcHN2LW1pR0FFWnBQTkRRaVNkM2ExdnJ3MkVzRE1jLTB5OHY3MXFGMVk?oc=5",
       "excerpt": "Hakimi cash sur son avenir au PSG, le Barça fixé sur le prix de Cucurella, une première offre pour Bastoni… Les 3 infos mercato du jour TOP Mercato",
@@ -533,6 +533,19 @@
       "topic": "mercato",
       "titleFr": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
       "summaryFr": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato"
+    },
+    {
+      "title": "Le Barça limoge son entraîneur Ronald Koeman après une nouvelle défaite - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDNZQ3I4aF9ZQ01WQUp4RmwyVFVuYURHVlVsY1M0V3IxZzFKRFUxa1pqNWxuSkpndm9JSUNxUEs5dHliMDljTEFDZ1hkQkpjZ3hYQ1E5LVpBRUtxeGFLNXM4MGxsWFFnN05wU1NibUNaUE1TV3E3LXdGQ2FIS0Vpc0dPNWpiTjJxamFkMkV3TzQ1NWlzMzRxNnowcUtlOXltb29RZ3k0VWJhV2xka2pKeXBoSVViY2RnNEZ5TjZZRW1vLWhweGRpQUI0WXFVZDcyejNHSjdTdnV4Sk1ESnhnZ3dEUUc5UWw5UnJJ?oc=5",
+      "excerpt": "Le Barça limoge son entraîneur Ronald Koeman après une nouvelle défaite Le Parisien",
+      "date": "2021-10-27T07:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "le-barca-limoge-son-entraineur-ronald-koeman-apres-une--mz6vu7",
+      "topic": "equipe",
+      "titleFr": "Le Barça limoge son entraîneur Ronald Koeman après une nouvelle défaite - Le Parisien",
+      "summaryFr": "Le Barça limoge son entraîneur Ronald Koeman après une nouvelle défaite Le Parisien"
     },
     {
       "title": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - FC Barcelone",
