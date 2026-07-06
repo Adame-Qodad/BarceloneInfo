@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-07-06T04:03:41.029Z",
+  "lastUpdated": "2026-07-06T10:48:27.670Z",
   "articles": [
+    {
+      "title": "Al Barça anuncia la incorporación de Kugel",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/06/barca-anuncia-incorporacion-kugel.html",
+      "excerpt": "Nuevo preparador físico del equipo culé",
+      "date": "2026-07-06T10:11:18.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/06/6a4b7c19db885.jpeg",
+      "slug": "al-barca-anuncia-la-incorporacion-de-kugel-1cvpwd",
+      "topic": "equipe",
+      "titleFr": "Al Barça anuncia la incorporación de Kugel",
+      "summaryFr": "Nuevo preparador físico del equipo culé"
+    },
+    {
+      "title": "El Barça 'presume' de Gordon",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/06/barca-presume-gordon.html",
+      "excerpt": "El club azulgrana cuelga una foto del inglés, eufórico, tras lograr su pase a cuartos",
+      "date": "2026-07-06T09:53:55.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/06/6a4b71c3f396e.jpeg",
+      "slug": "el-barca-presume-de-gordon-og9tnr",
+      "topic": "equipe",
+      "titleFr": "El Barça 'presume' de Gordon",
+      "summaryFr": "El club azulgrana cuelga una foto del inglés, eufórico, tras lograr su pase a cuartos"
+    },
+    {
+      "title": "Raphinha cierra un curso amargo: ¡se ha perdido 26 partidos por lesión!",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/06/raphinha-cierra-curso-amargo-perdido-26-partidos-lesion.html",
+      "excerpt": "Las dolencias físicas han marcado la campaña del extremo, tanto en el Barça como con Brasil",
+      "date": "2026-07-06T08:59:36.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/06/6a4b6a15dfcb0.jpeg",
+      "slug": "raphinha-cierra-un-curso-amargo-se-ha-perdido-26-partid-4th680",
+      "topic": "equipe",
+      "titleFr": "Raphinha cierra un curso amargo: ¡se ha perdido 26 partidos por lesión!",
+      "summaryFr": "Las dolencias físicas han marcado la campaña del extremo, tanto en el Barça como con Brasil"
+    },
     {
       "title": "Así es la cláusula que deja en el aire el segundo año de Christensen",
       "link": "https://www.marca.com/futbol/barcelona/2026/07/03/asi-clausula-deja-aire-segundo-ano-christensen.html",
@@ -11,8 +50,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/03/6a47bfe6d5c64.jpeg",
       "slug": "asi-es-la-clausula-que-deja-en-el-aire-el-segundo-ano-d-3bh3ac",
       "topic": "mercato",
-      "titleFr": "C'est la clause qui laisse en l'air la deuxième année de Christensen",
-      "summaryFr": "Le Barça pourrait résilier unilatéralement le contrat du Danois à la fin de la première campagne"
+      "titleFr": "Así es la cláusula que deja en el aire el segundo año de Christensen",
+      "summaryFr": "El Barça podría rescindir unilateralmente el contrato del danés al acabar la primera campaña"
     },
     {
       "title": "El Barça supera los 150.000 socios",
@@ -24,8 +63,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/03/6a47bd5b1eed2.jpeg",
       "slug": "el-barca-supera-los-150-000-socios-ay2reg",
       "topic": "equipe",
-      "titleFr": "Le Barça dépasse les 150 000 membres",
-      "summaryFr": "Concrètement, il y en a 151 787 avec une croissance de 18 000 en deux ans"
+      "titleFr": "El Barça supera los 150.000 socios",
+      "summaryFr": "Concretamente tiene 151.787 con un crecimiento de 18.000 en dos años"
     },
     {
       "title": "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
@@ -37,8 +76,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/02/6a461f60cef56.jpeg",
       "slug": "tebas-dice-que-su-buena-relacion-con-el-barca-y-laporta-dtk574",
       "topic": "equipe",
-      "titleFr": "Tebas dit que sa « bonne relation » avec le Barça et Laporta n'influencera pas les décisions de LaLiga",
-      "summaryFr": "Le président ne cache pas sa bonne entente avec le club blaugrana"
+      "titleFr": "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
+      "summaryFr": "El presidente no oculta la buena sintonía con el club azulgrana"
     },
     {
       "title": "Emotiva despedida de Ansu Fati del Barcelona tras el recado de su padre a Hansi Flick",
@@ -50,8 +89,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/02/6a45e6123026a.jpeg",
       "slug": "emotiva-despedida-de-ansu-fati-del-barcelona-tras-el-re-j8zvcu",
       "topic": "equipe",
-      "titleFr": "Adieu émouvant d'Ansu Fati de Barcelone après la visite de son père à Hansi Flick",
-      "summaryFr": "« C'était un rêve de défendre ces couleurs. Merci pour tout le FC Barcelone. Merci pour tout, culers. Visca le Barça et visca Catalunya ! \""
+      "titleFr": "Emotiva despedida de Ansu Fati del Barcelona tras el recado de su padre a Hansi Flick",
+      "summaryFr": "\"Ha sido un sueño defender estos colores. Gracias por todo F.C. Barcelona. Gracias por todo, culers. ¡Visca el Barça i visca Catalunya!\""
     },
     {
       "title": "El Barça va haciendo hueco a Julián Álvarez",
@@ -63,8 +102,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/01/6a44e5983b395.jpeg",
       "slug": "el-barca-va-haciendo-hueco-a-julian-alvarez-eqmt47",
       "topic": "equipe",
-      "titleFr": "Le Barça laisse la place à Julián Álvarez",
-      "summaryFr": "Il a libéré 58 millions de la masse salariale avec des départs et des renouvellements"
+      "titleFr": "El Barça va haciendo hueco a Julián Álvarez",
+      "summaryFr": "Ha liberado 58 millones de la masa salarial con salidas y renovaciones"
     },
     {
       "title": "Barça y Real Madrid, dos procesos electorales a ritmos opuestos",
@@ -77,7 +116,7 @@
       "slug": "barca-y-real-madrid-dos-procesos-electorales-a-ritmos-o-wxtjn3",
       "topic": "equipe",
       "titleFr": "Barça y Real Madrid, dos procesos electorales a ritmos opuestos",
-      "summaryFr": "Celui du club blaugrana a duré près de six mois ; celui de l'entité blanche, un mois"
+      "summaryFr": "El del club azulgrana ha durado casi medio año; el de la entidad blanca, un mes"
     },
     {
       "title": "El Barça presenta la equipación de la 26-27",
@@ -89,8 +128,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/30/c35b61gH3lYROa0hx.jpeg",
       "slug": "el-barca-presenta-la-equipacion-de-la-26-27-odxnui",
       "topic": "equipe",
-      "titleFr": "Le Barça présente l'équipement de la 26-27",
-      "summaryFr": "La mise en scène a eu lieu au MACBA, avec la danse et la musique comme protagonistes"
+      "titleFr": "El Barça presenta la equipación de la 26-27",
+      "summaryFr": "La puesta de largo fue en el MACBA, con la danza y la música como protagonistas"
     },
     {
       "title": "El Atlético ha hecho efectiva la denuncia al Barça ante la FIFA",
@@ -102,8 +141,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/30/6a43f413c6aab.jpeg",
       "slug": "el-atletico-ha-hecho-efectiva-la-denuncia-al-barca-ante-xhwotk",
       "topic": "mercato",
-      "titleFr": "L'Atlético a donné effet à la plainte déposée par le Barça auprès de la FIFA",
-      "summaryFr": "Pour les tentatives de recrutement de Julian hors délai."
+      "titleFr": "El Atlético ha hecho efectiva la denuncia al Barça ante la FIFA",
+      "summaryFr": "Por los intentos por el fichaje de Julián fuera de plazo."
     },
     {
       "title": "El Barça se toma su tiempo con Julián Álvarez",
@@ -115,8 +154,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/30/6a439aafd7e94.jpeg",
       "slug": "el-barca-se-toma-su-tiempo-con-julian-alvarez-zcsxun",
       "topic": "equipe",
-      "titleFr": "Le Barça prend son temps avec Julián Álvarez",
-      "summaryFr": "Il attendra la fin du Mondial pour lancer son offensive définitive"
+      "titleFr": "El Barça se toma su tiempo con Julián Álvarez",
+      "summaryFr": "Esperará al final del Mundial para lanzar su ofensiva definitiva"
     },
     {
       "title": "Mercato Barça : Casado utilisé en monnaie d’échange pour débloquer le transfert d’un joueur de la Coupe du monde 2026 ? - TOP Mercato",
@@ -128,8 +167,8 @@
       "image": null,
       "slug": "mercato-barca-casado-utilise-en-monnaie-d-echange-pour--8nkzav",
       "topic": "mercato",
-      "titleFr": "Mercato Barça : Casado utilisé en monnaie d'échange pour débloquer le transfert d'un joueur de la Coupe du monde 2026 ? - TOP MERCATO",
-      "summaryFr": "Mercato Barça : Casado utilisé en monnaie d'échange pour débloquer le transfert d'un joueur de la Coupe du monde 2026 ? TOP MERCATO"
+      "titleFr": "Mercato Barça : Casado utilisé en monnaie d’échange pour débloquer le transfert d’un joueur de la Coupe du monde 2026 ? - TOP Mercato",
+      "summaryFr": "Mercato Barça : Casado utilisé en monnaie d’échange pour débloquer le transfert d’un joueur de la Coupe du monde 2026 ? TOP Mercato"
     },
     {
       "title": "Mercato Barça : revirement de Manchester United avec Rashford… Arsenal et Chelsea parmi les 5 concurrents pour le recruter - TOP Mercato",
@@ -154,8 +193,8 @@
       "image": null,
       "slug": "mercato-barca-a-la-place-de-julian-alvarez-un-buteur-a--az34e1",
       "topic": "mercato",
-      "titleFr": "Mercato Barça : à la place de Julian Alvarez, un buteur à 0 € pour remplacer Robert Lewandowski ? - TOP MERCATO",
-      "summaryFr": "Mercato Barça : à la place de Julian Alvarez, un buteur à 0 € pour remplacer Robert Lewandowski ? TOP MERCATO"
+      "titleFr": "Mercato Barça : à la place de Julian Alvarez, un buteur à 0 € pour remplacer Robert Lewandowski ? - TOP Mercato",
+      "summaryFr": "Mercato Barça : à la place de Julian Alvarez, un buteur à 0 € pour remplacer Robert Lewandowski ? TOP Mercato"
     },
     {
       "title": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon - TOP Mercato",
@@ -167,8 +206,8 @@
       "image": null,
       "slug": "barca-3-facons-de-jouer-avec-la-recrue-surprise-anthony-1sn4a4",
       "topic": "mercato",
-      "titleFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon - TOP MERCATO",
-      "summaryFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon TOP MERCATO"
+      "titleFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon - TOP Mercato",
+      "summaryFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon TOP Mercato"
     },
     {
       "title": "Mercato Barça : un invité surprise du Mondial 2026 va signer contre 3 M€ - TOP Mercato",
@@ -245,8 +284,8 @@
       "image": null,
       "slug": "mercato-barca-qui-est-ruud-nijstad-symbole-de-la-nouvel-wa21rq",
       "topic": "mercato",
-      "titleFr": "Mercato Barca : qui est Ruud Nijstad, symbole de la nouvelle stratégie de recrutement de Barcelone ? - TOP MERCATO",
-      "summaryFr": "Mercato Barca : qui est Ruud Nijstad, symbole de la nouvelle stratégie de recrutement de Barcelone ? TOP MERCATO"
+      "titleFr": "Mercato Barca : qui est Ruud Nijstad, symbole de la nouvelle stratégie de recrutement de Barcelone ? - TOP Mercato",
+      "summaryFr": "Mercato Barca : qui est Ruud Nijstad, symbole de la nouvelle stratégie de recrutement de Barcelone ? TOP Mercato"
     },
     {
       "title": "Mercato – Le Barça va s’offrir les 4 Fantastiques du futur ! - TOP Mercato",
@@ -271,8 +310,8 @@
       "image": null,
       "slug": "mercato-la-strategie-du-barca-pour-faire-eclore-son-nou-6monfb",
       "topic": "mercato",
-      "titleFr": "Marché – La stratégie du Barça pour faire éclore son « nouveau Busquets » - TOP MARCHÉ",
-      "summaryFr": "Marché – La stratégie du Barça pour faire éclore son « nouveau Busquets » TOP MARCHÉ"
+      "titleFr": "Mercato – La stratégie du Barça pour faire éclore son “nouveau Busquets” - TOP Mercato",
+      "summaryFr": "Mercato – La stratégie du Barça pour faire éclore son “nouveau Busquets” TOP Mercato"
     },
     {
       "title": "Mercato Barça : Ter Stegen va quitter Barcelone mais rester en Liga - TOP Mercato",
@@ -310,8 +349,8 @@
       "image": null,
       "slug": "mercato-le-barca-et-l-atletico-madrid-a-la-lutte-pour-s-vm0t6u",
       "topic": "mercato",
-      "titleFr": "Mercato – Le Barça et l'Atlético Madrid à la lutte pour signer l'ex-doublurede Dean Huijsen - TOP MERCATO",
-      "summaryFr": "Mercato – Le Barça et l'Atlético Madrid à la lutte pour signer l'ex-doublure de Dean Huijsen TOP MERCATO"
+      "titleFr": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen - TOP Mercato",
+      "summaryFr": "Mercato – Le Barça et l’Atlético Madrid à la lutte pour signer l’ex-doublure de Dean Huijsen TOP Mercato"
     },
     {
       "title": "Mercato – Le Barca a repéré le “nouveau Zubimendi” - TOP Mercato",
@@ -340,6 +379,19 @@
       "summaryFr": "Mercato FC Barcelone : Le Barça a trouvé son nouveau défenseur central barca-actu.fr"
     },
     {
+      "title": "Barça : 2 recrues réclamées par Hansi Flick au mercato d’hiver ? - TOP Mercato",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWo0NVMtOWtkWXZwRTNTVG05ZkVBTFVSNW5veVZYRXA1OWJNbGRiZUhmTGxDSEU5RFQ2Y2wyaFZKRXg3ZkVaUDVLQXFmdnlIRktuQ09KcTJ2UzNUSkpwdkV0WktyaWlkM1l0ZlNzTlZnaE9LSzR2YnJkeEpYRmFHaEdaTkpXSlM0bUdLS3pRdEtpb3NjZkJ2YTluYw?oc=5",
+      "excerpt": "Barça : 2 recrues réclamées par Hansi Flick au mercato d’hiver ? TOP Mercato",
+      "date": "2025-11-28T08:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "barca-2-recrues-reclamees-par-hansi-flick-au-mercato-d--ycb87o",
+      "topic": "mercato",
+      "titleFr": "Barça : 2 recrues réclamées par Hansi Flick au mercato d’hiver ? - TOP Mercato",
+      "summaryFr": "Barça : 2 recrues réclamées par Hansi Flick au mercato d’hiver ? TOP Mercato"
+    },
+    {
       "title": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjhDNkVYTGZyUzdLeEhGQ0VjSFpkMjhDUFRfeWFWSmJ4OXlMUlhkU0IxWEdTbTJtUjM4TUl5TEdUZGdaN3dGY1BWUERXUG5vRVpUZUVlRUlvMllsMloxc2F6Z3p4aGdEQjBEQmljdFpJSGxfQUZaQ1RqUjluN1VPNHZaU3NjWXRWckY2cG1pRUJYeUZFZFY2N29qeGVUNnJOWTVicUc5cW03bTluUGtGenc1QlNNU3ZoM2ZENG1WNHNKV256NlB3?oc=5",
       "excerpt": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli TOP Mercato",
@@ -349,8 +401,8 @@
       "image": null,
       "slug": "mercato-barca-deux-menaces-en-premier-league-pour-la-pe-ctglv3",
       "topic": "mercato",
-      "titleFr": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli - TOP MERCATO",
-      "summaryFr": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli TOP MERCATO"
+      "titleFr": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli - TOP Mercato",
+      "summaryFr": "Mercato Barça : deux menaces en Premier League pour la pépite à 60 M€ Gustavo Zabarelli TOP Mercato"
     },
     {
       "title": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
@@ -444,19 +496,6 @@
       "summaryFr": "Le Top 10 des joueurs les plus chers du Barça en 2024-2025 TOP Mercato"
     },
     {
-      "title": "21/03/2006: The day Flick decided he wanted to coach Barça - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1A5ckJTemI0WkpCc1UtS0pPV0VrbzdGLWNnQ29WU3VxN3VUbDlsTVMxWGk1T0hUcFZOSFZwOGM1bmMxd2YwTzFsdWM5VW00bUQtWXZJQ1dhelAtRWI2Ymw0Z0UwaVQzV3N5dmJwTlFmUGJJREMxQndHV0xFX1hvYlkyQlNjY3pySTBjbFc1RXU1OWZhcU9HOUUwQms5bk9XUk9KazlhSnotbFB6V2JiQkQzQjhmOWtJb1lidEJhdmtFV1dRX2k5bw?oc=5",
-      "excerpt": "21/03/2006: The day Flick decided he wanted to coach Barça Site officiel du FC Barcelone",
-      "date": "2024-07-20T07:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "21-03-2006-the-day-flick-decided-he-wanted-to-coach-bar-ns9r57",
-      "topic": "equipe",
-      "titleFr": "21/03/2006: The day Flick decided he wanted to coach Barça - Site officiel du FC Barcelone",
-      "summaryFr": "21/03/2006: The day Flick decided he wanted to coach Barça Site officiel du FC Barcelone"
-    },
-    {
       "title": "Pedri scores first FC Barcelona brace - Site officiel du FC Barcelone",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2JCT1RfcEpVckFJRnZST1B6bnVvNE44SkxadnVUU3pGdmFyeVlxSFR5WDExRVI1Qi15YVczNGlQX0FmaDV0RFk1b2k1cEhUYmpna1FQekRJNEQ2Qm56ZU9kUXYyTUg0WmRPYll6cjFLNGJpX0ZxYVZNdGROVW8xcFFKRFNWMEhqcFFKVDFaS01JdzVyNXlXbEtkMG0xOVpTMkdXSnU2dUxxdEhDRTFmQXFqWUNWSHBvTDBRb2FuWXYyUTUwYTBLX3Jwc0lnM2QtNVlz?oc=5",
       "excerpt": "Pedri scores first FC Barcelona brace Site officiel du FC Barcelone",
@@ -479,8 +518,8 @@
       "image": null,
       "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-9ggska",
       "topic": "equipe",
-      "titleFr": "Seven La Masia graduates make FC Barcelone first team debuts - Site officiel du FC Barcelone",
-      "summaryFr": "Seven La Masia graduates make FC Barcelone first team debuts Site officiel du FC Barcelone"
+      "titleFr": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
+      "summaryFr": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone"
     },
     {
       "title": "Accord trouvé entre le Barça et le FC Séville pour le transfert de Jules Kounde - Site officiel du FC Barcelone",
@@ -496,6 +535,19 @@
       "summaryFr": "Accord trouvé entre le Barça et le FC Séville pour le transfert de Jules Kounde Site officiel du FC Barcelone"
     },
     {
+      "title": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlnZ01CQm1kckV6UThqVmdMX1B5blpUYmpMbEQwNXJGUVlkdTBlZ1dlRWRmVVoxT1ZKWGNBWnN4c0QwSzNVdHBmTUhRcGlQQ0tUVDZGd2V6NnVaeEZoMi1pVDYxOWFINkNjQldqdWJMam1Hc0c0dlBYVEsxNy1FTEhJYmdTaDFwX2dZWmZ6S2Y2VHVMVXUwMWd1N2pHSGRaaGozVV9B?oc=5",
+      "excerpt": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato",
+      "date": "2022-01-20T08:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "barca-nico-gonzalez-inscrit-en-equipe-premiere-en-liga--k5ocxi",
+      "topic": "mercato",
+      "titleFr": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
+      "summaryFr": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato"
+    },
+    {
       "title": "First team collects Barça Players Award 2020 - Site officiel du FC Barcelone",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdvV2pqZ2E1UzRKY05rNl9sOHBzYU9NSDh2Q2sxTnZxekFQYTNURkZrcVlKQlAtNTdydE01N2V5LUNDeUdrMDA3NWZWODFfMHdZVWtsUW11Z2pFeUVPLTlGenFPUFdIdjlqQ2pobFBhRG1hOS05WDRDMEwtR2p1OUJLUldTZE55S09yLU9IYmcxcDZqSnVpaA?oc=5",
       "excerpt": "First team collects Barça Players Award 2020 Site officiel du FC Barcelone",
@@ -507,6 +559,19 @@
       "topic": "equipe",
       "titleFr": "First team collects Barça Players Award 2020 - Site officiel du FC Barcelone",
       "summaryFr": "First team collects Barça Players Award 2020 Site officiel du FC Barcelone"
+    },
+    {
+      "title": "FC Barcelona transfer market - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHJPa0tiVV9kMEpDMkNlNVBZV01tRXpWbEkyUWZtd0VBVEM1R3VTOGpyeGJPVVdERGIwdWc5enp0dnhvMlYtSF9hLTJpR09kWmtYcmRmZGhlRVNBaVNjYnFKM2VmeHhzU2ZtemFiRTBCem9iX3h6a0J4X3pHWUlFTWxBYk1VaklpT0QyejNDQ3lGUVE0SWtKNjFEcVdSbERVby1WMlNoRDNHZzZVcm1HNThVWVFVb18wN2wzSw?oc=5",
+      "excerpt": "FC Barcelona transfer market Site officiel du FC Barcelone",
+      "date": "2021-09-01T07:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "fc-barcelona-transfer-market-site-officiel-du-fc-barcel-gfaaua",
+      "topic": "mercato",
+      "titleFr": "FC Barcelona transfer market - Site officiel du FC Barcelone",
+      "summaryFr": "FC Barcelona transfer market Site officiel du FC Barcelone"
     },
     {
       "title": "Gavi makes FC Barcelona debut - Site officiel du FC Barcelone",
@@ -536,13 +601,13 @@
     },
     {
       "title": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYlZwRlRvejI5dFFfbkFfcVhZSWs1aGVyeENGRzNlZDNra2lQa0ZaakdFSmd5M2lna1kyOUNpSTduYkJaaS16dmJEYVZmeVZTV3BrWUpNSEZGVkNXalI1WF9fSk5faDEtMDFtOUxTOUlvemtPankyRktaUWwtbEJ5UXFKd3BmZ05BRnY1d1R0RUhKOEJuRFdHYTliWlExSWRqUWRsUkx5ZVZmQjZENGRJejJNRU5VU3JWQ2NaREI3ZnYwMjRmU1lJc2hHSGwwWnRPd2w1cklrcW1wR25WRzdZb29lbUpibnhxRmx0OWFvZXFDV3c5dXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdEM3WGdLdDVORHVZSHQ0Rk5lZzEyWk5mejZ2RmhMaHlfRzFDSE9HNkcyNU5ENVh0aFFsU3IyZWE5dVc5dUE5N1pScUZCQmYtRGV1ZkVOU2pqaTd5NDVHdjJ2UXF2MkJjSlFHQkRvdUpjSTJyZVFGUk1iejA0TEh6RTlfdFRLZmxiU2NCcml2bkdFZkdHaDNHbU1wRnFGYVMxTGk4VDVzVGw3X25rbXVKR2FKeU0xQy1GalRrX1NBQWNBWnBYcHYzWVFPODRrYThlbENoOW5rVW5WWU56Z3Nza29PQTE0ajk0Rmw5WVcxVDFnZF9TZUdTWEFRTW0ycHVfT3BmQWNXWmlWRDZEckd5bg?oc=5",
       "excerpt": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack Site officiel du FC Barcelone",
       "date": "2017-08-18T07:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
-      "slug": "fc-barcelona-s-first-team-hold-a-minute-s-silence-in-me-z78ue3",
+      "slug": "fc-barcelona-s-first-team-hold-a-minute-s-silence-in-me-wbxlr",
       "topic": "equipe",
       "titleFr": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack - Site officiel du FC Barcelone",
       "summaryFr": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack Site officiel du FC Barcelone"
