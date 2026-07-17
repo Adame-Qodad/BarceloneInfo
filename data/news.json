@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-17T13:49:27.340Z",
+  "lastUpdated": "2026-07-17T19:18:18.454Z",
   "articles": [
+    {
+      "title": "El Barça jugará un triangular en Udine el 8 de agosto",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/17/barca-jugara-triangular-udine-8-agosto.html",
+      "excerpt": "Se medirán al Udinese y al Nottingham Forest",
+      "date": "2026-07-17T18:35:44.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/17/6a5a75ed3c558.jpeg",
+      "slug": "el-barca-jugara-un-triangular-en-udine-el-8-de-agosto-yyh7f3",
+      "topic": "equipe",
+      "titleFr": "Le Barça jouera une triangulaire à Udine le 8 août",
+      "summaryFr": "Se medirán al Udinese y al Nottingham Forest"
+    },
     {
       "title": "Ter Stegen se ejercita con el Barça",
       "link": "https://www.marca.com/futbol/barcelona/2026/07/17/ter-stegen-ejercita-barca.html",
@@ -197,19 +210,6 @@
       "summaryFr": "Kounde en pleine forme en route vers les demi-finales du FC Barcelone"
     },
     {
-      "title": "Kounde, first from Barça into quarter finals - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFIxLUhJYW9DQlZoZldVd1VPajdLQ2pfdjlVb1JtbE0zUk9WY1pPOGZtZjNEMDYzSXBqZkpFRDdfZ2FaaEVkVHV1aWxJaHNQY080Q3lfVmlOczhjNVdVVWt1WFlPbUtTS2xQTk1rSkZuQ040M1huZklmOXNRMExxWHlDUUp4em05NUxZNjlSZ3c4MlNMS05wWWZEMnJKM3JIOVJNYl9QTEpxbzZOTHBUdVNwT3FYOHlZ?oc=5",
-      "excerpt": "Kounde, first from Barça into quarter finals Site officiel du FC Barcelone",
-      "date": "2026-07-05T07:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "kounde-first-from-barca-into-quarter-finals-site-offici-8caizb",
-      "topic": "equipe",
-      "titleFr": "Kounde, first from Barça into quarter finals - Site officiel du FC Barcelone",
-      "summaryFr": "Kounde, first from Barça into quarter finals Site officiel du FC Barcelone"
-    },
-    {
       "title": "Mercato Barça : Casado utilisé en monnaie d’échange pour débloquer le transfert d’un joueur de la Coupe du monde 2026 ? - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObVg4RDg1WU9SdEt0czNLODlYdzF3YnhVWXJUcTlSb0VEUXJ0RDUzV1RZQ3Vjb0pDOGZkWHRxaVJEMWNiV1FxMW9PU2V3Zk53a0RCSG5vX3pyZTJaQWZ6UXU1TUhrUzBJVTE2UmFKRDVidWIyLWVwNTFxS1p0WmNWd1Rqb01tbkw2N3R2eGplNm5ydm5HRm9XQ2R5RVNIcjRqRXUyWHFqb2s4dHN5ZW1HVE9BeFYyZEw3Njl1YnJFbTFOUndZRkhJem9LWjQ1bUk2eUVPZk9CV0YxX3lULWc?oc=5",
       "excerpt": "Mercato Barça : Casado utilisé en monnaie d’échange pour débloquer le transfert d’un joueur de la Coupe du monde 2026 ? TOP Mercato",
@@ -260,6 +260,19 @@
       "topic": "mercato",
       "titleFr": "Le Barça proche de recruter Caicedo - Les Transferts",
       "summaryFr": "Le Barça proche de recruter Caicedo Les Transferts"
+    },
+    {
+      "title": "Le Barça a bouclé l’arrivée de Josué Caicedo - Foot Mercato",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1BTcG50NDhlQUdURlowdGk1emVLdW10V3ZSQmlhUzlub2E1aFh5eXcwWXRha1N1emlUc3duOXhQU0c5aTlsRUR0MkRYNENyMDRuT1BFSHQ3LXVLQUt6WkhsNW83YUhLYnpRS2lNRE1sVm1OMVV0aWl4TXpFMjlxWlcxY1RDUU02WHQzYVZrZmZld3lwRzBZ?oc=5",
+      "excerpt": "Le Barça a bouclé l’arrivée de Josué Caicedo Foot Mercato",
+      "date": "2026-06-19T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "le-barca-a-boucle-l-arrivee-de-josue-caicedo-foot-merca-yr92",
+      "topic": "mercato",
+      "titleFr": "Le Barça a bouclé l’arrivée de Josué Caicedo - Foot Mercato",
+      "summaryFr": "Le Barça a bouclé l’arrivée de Josué Caicedo Foot Mercato"
     },
     {
       "title": "Mercato Barça : revirement de Manchester United avec Rashford… Arsenal et Chelsea parmi les 5 concurrents pour le recruter - TOP Mercato",
@@ -325,19 +338,6 @@
       "topic": "mercato",
       "titleFr": "Barça : départs, arrivées, prolongations… Les 9 chantiers qui attendent déjà Deco pour le mercato d’été - TOP Mercato",
       "summaryFr": "Barça : départs, arrivées, prolongations… Les 9 chantiers qui attendent déjà Deco pour le mercato d’été TOP Mercato"
-    },
-    {
-      "title": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajRFQkZsaVRNUGwwZjI4ekJKTkQ2WGFNR0Q4eG5vOGthYVVsZHNzVnZpSElUVXg2ZVFCUjl1WUpsc0FYRFg0SGcwLTJoa19ncEZpNWVYZXNHWWZoWHNjLTBmM0xKc1dITmNWZTh5X3NfWVhpbWVVVGF0dGhKY3k3Ykc0RVF4SjdqMUVrREljUk81THExVk5Ucm9xM2h1bzRzWlQwaWRjblI2OUFxVkFqSFZ5NWFzbzQ?oc=5",
-      "excerpt": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com",
-      "date": "2026-02-03T08:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "fc-barcelone-departs-arrivees-le-bilan-complet-du-merca-v099ew",
-      "topic": "mercato",
-      "titleFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
-      "summaryFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com"
     },
     {
       "title": "Le transfert de Hamza Abdelkarim au Barça est bouclé, l’annonce prévue dans 24 heures - Tribuna.com",
