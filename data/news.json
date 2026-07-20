@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-20T03:37:39.523Z",
+  "lastUpdated": "2026-07-20T09:24:51.763Z",
   "articles": [
+    {
+      "title": "El Barça pisa el acelerador tras el Mundial",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/20/barca-pisa-acelerador-mundial.html",
+      "excerpt": "Laporta vuelve a España con muchos 'deberes', tras una semana intensa en Estados Unidos",
+      "date": "2026-07-20T08:37:40.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/20/6a5ddcad71836.jpeg",
+      "slug": "el-barca-pisa-el-acelerador-tras-el-mundial-dkarkj",
+      "topic": "equipe",
+      "titleFr": "Le Barça appuie sur l'accélérateur après le Mondial",
+      "summaryFr": "Laporta revient en Espagne avec de nombreux « devoirs », après une semaine intense aux États-Unis"
+    },
     {
       "title": "Koundé ya piensa en azulgrana: \"Espero hacer una gran campaña y ayudar al máximo al Barça\"",
       "link": "https://www.marca.com/futbol/barcelona/2026/07/19/kounde-piensa-azulgrana-espero-gran-campana-ayudar-maximo-barca.html",
@@ -184,32 +197,6 @@
       "summaryFr": "Il jouera comme prêté la saison prochaine dans la filiale blaugrana"
     },
     {
-      "title": "¡Vuelta al trabajo! El Barça 2026-27 ya echa a rodar",
-      "link": "https://www.marca.com/futbol/barcelona/2026/07/13/vuelta-trabajo-barca-2026-27-echa-rodar-video.html",
-      "excerpt": "",
-      "date": "2026-07-13T15:23:15.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/cY9Xw1gLG8k8NZmTv.jpeg",
-      "slug": "vuelta-al-trabajo-el-barca-2026-27-ya-echa-a-rodar-2tu79t",
-      "topic": "equipe",
-      "titleFr": "Retour au travail ! Le Barça 2026-27 roule déjà",
-      "summaryFr": ""
-    },
-    {
-      "title": "La cláusula que complica la renovación de Ferran Torres",
-      "link": "https://www.marca.com/futbol/barcelona/2026/07/13/clausula-complica-renovacion-ferran-torres.html",
-      "excerpt": "Si amplía su contrato, el Barça debe pagar al City 8 millones de euros",
-      "date": "2026-07-13T10:56:41.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a54bf1624f70.jpeg",
-      "slug": "la-clausula-que-complica-la-renovacion-de-ferran-torres-49ck3z",
-      "topic": "mercato",
-      "titleFr": "La clause qui complique le renouvellement de Ferran Torres",
-      "summaryFr": "S'il prolonge son contrat, le Barça devra payer à City 8 millions d'euros"
-    },
-    {
       "title": "Kounde in top form on his way to the semi-finals - FC Barcelona",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZFh1OGZoOVJUODJzaXRkU0xuUlZ4RV9WZm02RW0wTVRYdmlWN0dHRnAyVzIxMEVycVVRUkROT3lOQ1hBTG1veEc2aE1sQ3VYTXhHbmRJRURoSllkcjJYcVo5UVZoMjdFVEZhVHV0LTF5VHdTdTJyMkd0YmIxTmt2eURicWg0NU4yc0xqdC1hbWNjYzRycm1NclNpUkZFdm85OHNDMU9YRUIxTjRBejlQMmZPaVR5YWpUR0V1SjZZQ1pKbWl2eTJLcUp3bGRDdw?oc=5",
       "excerpt": "Kounde in top form on his way to the semi-finals FC Barcelona",
@@ -234,19 +221,6 @@
       "topic": "mercato",
       "titleFr": "Mercato Barça : Casado utilisé en monnaie d'échange pour débloquer le transfert d'un joueur de la Coupe du monde 2026 ? - TOP MERCATO",
       "summaryFr": "Mercato Barça : Casado utilisé en monnaie d'échange pour débloquer le transfert d'un joueur de la Coupe du monde 2026 ? TOP MERCATO"
-    },
-    {
-      "title": "Mercato. Julian Alvarez remis en place par le directeur de l’Atlético de Madrid après ses déclarations sur le Barça - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPR3FhR3NzVVZaWFRTa2lZU0YzRnlMTXpwcXVqNWc1QnI0aU9kd2w5ZzdydThJQzRvRU1jelJGT0tZT3pURmc1YWRac0ZNcnIwYjFNOVRJR0drdnZhUzFncjUtUHgzZDNIRmxKUk1CV0EyZ1BvYkpnNFN6Q0RRaVFtVUJtdnlabzVnQWNUYmlwYmYzLU9VTHNMcVgweHVmUXBTd19oeHhnWlJyaUhZSGpqbTkxcjFROVE5WWtBdk9JbmtuaWZVLXhMTVlYemRkekQ0ZlZFWi1EWHFXUDc3Uy11Y2N3eUpwSWRJV2hyUmU5Z0dtdm1SMG5JcUtXNU9zQWhQTlYwN0xPeFc2LWtDYUVrYTFZX2VDUHpnNF9fZEo4clRES3VvV1k2alUzQWg3YnFPWU9vSm1vZENCQQ?oc=5",
-      "excerpt": "Mercato. Julian Alvarez remis en place par le directeur de l’Atlético de Madrid après ses déclarations sur le Barça Ouest-France",
-      "date": "2026-06-24T07:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "mercato-julian-alvarez-remis-en-place-par-le-directeur--qdqvel",
-      "topic": "mercato",
-      "titleFr": "Mercato. Julian Alvarez remis en place par le directeur de l’Atlético de Madrid après ses déclarations sur le Barça - Ouest-France",
-      "summaryFr": "Mercato. Julian Alvarez remis en place par le directeur de l’Atlético de Madrid après ses déclarations sur le Barça Ouest-France"
     },
     {
       "title": "Mercato FC Barcelone. Le jeune Hamza Abdelkarim définitivement transféré au Barça - Ouest-France",
@@ -299,19 +273,6 @@
       "topic": "mercato",
       "titleFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon - TOP MERCATO",
       "summaryFr": "Barça : 3 façons de jouer avec la recrue surprise Anthony Gordon TOP MERCATO"
-    },
-    {
-      "title": "Le Barça frappe un premier gros coup sur le mercato - Espagne - FC Barcelone - SO FOOT.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTM3QS1ESHctT1U2bC1ZSzBkNHZXUUxiSFJiYllWbTBxTGJhMlh0bE5SS0tGNGh6N0UzN0taTlhlbDZuVm8yZkR4RXNDQVpLbjh0cUw1ejl1alJZbFhMWUVCdkZyR1VMZjJXamdCWHI5VkZUdHFfMENoWUNETnVCTTdjbVVsQTFlRGlNQ2F2SkNncmpt?oc=5",
-      "excerpt": "Le Barça frappe un premier gros coup sur le mercato - Espagne - FC Barcelone SO FOOT.com",
-      "date": "2026-05-29T07:00:00.000Z",
-      "source": "Google News Mercato",
-      "category": "mercato",
-      "image": null,
-      "slug": "le-barca-frappe-un-premier-gros-coup-sur-le-mercato-esp-jehy45",
-      "topic": "mercato",
-      "titleFr": "Le Barça frappe un premier gros coup sur le mercato - Espagne - FC Barcelone - SO FOOT.com",
-      "summaryFr": "Le Barça frappe un premier gros coup sur le mercato - Espagne - FC Barcelone SO FOOT.com"
     },
     {
       "title": "Hakimi cash sur son avenir au PSG, le Barça fixé sur le prix de Cucurella, une première offre pour Bastoni… Les 3 infos mercato du jour - TOP Mercato",
@@ -598,6 +559,19 @@
       "topic": "mercato",
       "titleFr": "FC Barcelona transfer market - Site officiel du FC Barcelone",
       "summaryFr": "FC Barcelona transfer market Site officiel du FC Barcelone"
+    },
+    {
+      "title": "Gavi makes FC Barcelona debut - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uMVBiMEM1bEdjNFlXWlVJR0xvaDlzTUdOUFlOa2JOQnBMN2RtNFV5NE01d1VSOV9TLXpGaFgwN002SzkxS19UQWpvb0ZQTkpmdWtKVnBhOXJIMHpBMTh0bVZIUmN2a0RJaGZUUDlPTjdKTWVlakFXRVUwYVBUQQ?oc=5",
+      "excerpt": "Gavi makes FC Barcelona debut Site officiel du FC Barcelone",
+      "date": "2021-08-29T07:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "gavi-makes-fc-barcelona-debut-site-officiel-du-fc-barce-ui8g4a",
+      "topic": "equipe",
+      "titleFr": "Gavi makes FC Barcelona debut - Site officiel du FC Barcelone",
+      "summaryFr": "Gavi makes FC Barcelona debut Site officiel du FC Barcelone"
     },
     {
       "title": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
