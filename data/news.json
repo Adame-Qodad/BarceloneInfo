@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-06T08:45:52.634Z",
+  "lastUpdated": "2026-08-06T14:24:47.749Z",
   "articles": [
+    {
+      "title": "De Jong tiene la llave de Rodri",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/06/jong-llave-rodri.html",
+      "excerpt": "El neerlandés podría pasar por el quirófano y el Barça buscarle sustituto",
+      "date": "2026-08-06T12:07:15.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a7475909d5de.jpeg",
+      "slug": "de-jong-tiene-la-llave-de-rodri-kreqwb",
+      "topic": "equipe",
+      "titleFr": "De Jong a la clé de Rodri",
+      "summaryFr": "Le Néerlandais pourrait passer par la salle d'opération et le Barça pourrait lui trouver un remplaçant"
+    },
+    {
+      "title": "Gavi adelanta seis días su regreso a los entrenamientos con el Barça",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/06/gavi-adelanta-seis-dias-regreso-entrenamientos-barca-video.html",
+      "excerpt": "",
+      "date": "2026-08-06T12:00:06.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/dBoSU1gT7So5YZYhx.jpeg",
+      "slug": "gavi-adelanta-seis-dias-su-regreso-a-los-entrenamientos-j6xzf5",
+      "topic": "equipe",
+      "titleFr": "Gavi avance de six jours son retour à l'entraînement avec le Barça",
+      "summaryFr": ""
+    },
     {
       "title": "Al Barça le viene bien apostar por lo que ya tiene",
       "link": "https://www.marca.com/futbol/barcelona/opinion/2026/08/06/barca-le-viene-bien-apostar.html",
@@ -262,19 +288,6 @@
       "summaryFr": "L'international U19 est déjà en Angleterre avec le bloc Flick"
     },
     {
-      "title": "Bisiwu se suma al stage del Barça en Inglaterra",
-      "link": "https://www.marca.com/futbol/barcelona/2026/07/31/bisiwu-suma-stage-barca-inglaterra.html",
-      "excerpt": "Su fichaje se hará oficial entre esta noche y mañana",
-      "date": "2026-07-31T17:46:20.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/11/6a525271e74f5.jpeg",
-      "slug": "bisiwu-se-suma-al-stage-del-barca-en-inglaterra-6dqpzn",
-      "topic": "mercato",
-      "titleFr": "Bisiwu rejoint le stage du Barça en Angleterre",
-      "summaryFr": "Su fichaje se hará oficial entre esta noche y mañana"
-    },
-    {
       "title": "En attendant Adeyemi, le Barça tient sa recrue surprise du mercato pour 8,5 M€ - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWRTSDlEaGZmOFV5bUFBQ0pQbkpYRUNDcWZma0h4dUNXbDh4MXNOVjZoeXRNZ2llYWxLSFlHZDJjOHZ5N3FTaDFHaDFVZmFiT05CUFE4Qk5rcUxZYWltUldqN1Y5VUFrcXF1NGxNV3ExSXBQMmRqUVBqNFRHMU4tUnlUREowMXdKTGlEOU1HOTZjcG9YYzU3U0pKd0JYU0o5QWV4WDJDRjZaSEZlOGRtM3l3?oc=5",
       "excerpt": "En attendant Adeyemi, le Barça tient sa recrue surprise du mercato pour 8,5 M€ TOP Mercato",
@@ -390,6 +403,19 @@
       "topic": "mercato",
       "titleFr": "Barça : départs, arrivées, prolongations… Les 9 chantiers qui attendent déjà Deco pour le mercato d’été - TOP Mercato",
       "summaryFr": "Barça : départs, arrivées, prolongations… Les 9 chantiers qui attendent déjà Deco pour le mercato d’été TOP Mercato"
+    },
+    {
+      "title": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90min.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajRFQkZsaVRNUGwwZjI4ekJKTkQ2WGFNR0Q4eG5vOGthYVVsZHNzVnZpSElUVXg2ZVFCUjl1WUpsc0FYRFg0SGcwLTJoa19ncEZpNWVYZXNHWWZoWHNjLTBmM0xKc1dITmNWZTh5X3NfWVhpbWVVVGF0dGhKY3k3Ykc0RVF4SjdqMUVrREljUk81THExVk5Ucm9xM2h1bzRzWlQwaWRjblI2OUFxVkFqSFZ5NWFzbzQ?oc=5",
+      "excerpt": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90min.com",
+      "date": "2026-02-03T08:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "fc-barcelone-departs-arrivees-le-bilan-complet-du-merca-v099ew",
+      "topic": "mercato",
+      "titleFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90min.com",
+      "summaryFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90min.com"
     },
     {
       "title": "Mercato Barca : qui est Ruud Nijstad, symbole de la nouvelle stratégie de recrutement de Barcelone ? - TOP Mercato",
@@ -509,30 +535,30 @@
       "summaryFr": "Raphinha, first blaugrana through to World Cup 2026 Site officiel du FC Barcelone"
     },
     {
-      "title": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier - 90Min.com",
+      "title": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier - 90min.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlNac0F4NmJKUE9SX3p1d0hqc1FWWUk2akZaYmZwd01YMEMyNVFzVHd2emVVdHVBOU1vV0h0QjR5ZnVHTTI0RzdMS3ZMVTBYem9pZm5CSVF0bGk2eUNSWl9sbkJpYTFvQ0JWNUhqMUJoOGdFaFFaV1dFNmdwWURZemlyZjg1SER1NlgwTl9PcF9iTmlRZDA4elYzT3BUZ2hmV1FNNi0zQzRqOWZPNXBWM0FYY1ZkdnhMb0lLOFM3OE9zZw?oc=5",
-      "excerpt": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier 90Min.com",
+      "excerpt": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier 90min.com",
       "date": "2025-06-10T07:00:00.000Z",
       "source": "Google News Mercato",
       "category": "mercato",
       "image": null,
       "slug": "fc-barcelone-mercato-luis-diaz-ou-nico-williams-le-barc-zg1hnz",
       "topic": "mercato",
-      "titleFr": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier - 90Min.com",
-      "summaryFr": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier 90Min.com"
+      "titleFr": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier - 90min.com",
+      "summaryFr": "FC Barcelone mercato : Luis Diaz ou Nico Williams, le Barça a tranché pour son futur ailier 90min.com"
     },
     {
-      "title": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90Min.com",
+      "title": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90min.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm9QV3VYM0hZQlhvdHJxcm5lek5ZVm1nWnZ3WUM4Q2p4UXpObkdMUjlYWmtfN0pPOXprR3Z3QVZSYjk2dHFjS3VGaUdmbkhtTEswWkg0WW9DSkI0X0IxQ2J3YmhncVZwc19qSVZuZUZSSndQejZmaWhYbHVfczNHcEFtTzV2T3c0WFhnNUl2NTAxM2JCRUMzdzZHQ1NlRTZ1NVhmMnZYQS00YzR0SjhzN21NZnRuOTZBZmNrM3VoMzlPTTA1OG44?oc=5",
-      "excerpt": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90Min.com",
+      "excerpt": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90min.com",
       "date": "2025-05-26T07:00:00.000Z",
       "source": "Google News Mercato",
       "category": "mercato",
       "image": null,
       "slug": "fc-barcelone-mercato-les-blaugrana-finalisent-une-premi-u5j6cg",
       "topic": "mercato",
-      "titleFr": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90Min.com",
-      "summaryFr": "FC Barcelone Marché : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90Min.com"
+      "titleFr": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90min.com",
+      "summaryFr": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90min.com"
     },
     {
       "title": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
@@ -624,32 +650,6 @@
       "topic": "equipe",
       "titleFr": "Gavi makes FC Barcelona debut - Site officiel du FC Barcelone",
       "summaryFr": "Gavi makes FC Barcelona debut Site officiel du FC Barcelone"
-    },
-    {
-      "title": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUVR2elBpMmVmdVFsbXhzTHNVczJMQUpaVDhXWGlZSkhlMXJ1Ym5ibXFQWkJPNlh5ZzA5NHlVMkkzaHNJZjJXakR0LXZTM0VnNjVIbkZWZFpockcwRW1zc3NKMmttekczQ1AyTGVYRW5kVDE2UGo3MXptU2lEWUdQanFUQlF6d3U1em52eV94U1RBNGQ3cjdXRFRwcmNDaGRHU0Qxd0N1WGFTRnR5NmdLX0xKT2N3T3pXQVdlM2VuUUJQTlR5d1BtUEtkVVVxc0hLUE1hb1liamRzTFU4cThUU00zODlLYlNqZzM5cHB3?oc=5",
-      "excerpt": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened Site officiel du FC Barcelone",
-      "date": "2020-01-14T08:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "quique-setien-s-presentation-as-the-new-coach-of-fc-bar-bku0bd",
-      "topic": "equipe",
-      "titleFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
-      "summaryFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened Site officiel du FC Barcelone"
-    },
-    {
-      "title": "Barça become first team to reach 5th straight Copa del Rey Final - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFpvcGxFUU9NRmlRVzJaeGdpeldNd2ktRDVDcDlYdUhwUkV5aU84Nlo2TkZ5a1R1ME1mNmo5VEo2S29ETTBXMVFwcnNReHc0RVJzWkdIMmI5eDhFS29hb3RLQjkxN3YtNmdXMGxoNXByNzNvSFN3VGtvZTVFNWlkWGZTcEh3LWxRS3UwNjk5ajhpM0dxcWlranhiVGVJWUwzemdoNjkxeGswaVRhVVRhUnRB?oc=5",
-      "excerpt": "Barça become first team to reach 5th straight Copa del Rey Final Site officiel du FC Barcelone",
-      "date": "2018-02-08T08:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "barca-become-first-team-to-reach-5th-straight-copa-del--884llc",
-      "topic": "equipe",
-      "titleFr": "Barça become first team to reach 5th straight Copa del Rey Final - Site officiel du FC Barcelone",
-      "summaryFr": "Barça become first team to reach 5th straight Copa del Rey Final Site officiel du FC Barcelone"
     }
   ]
 }
