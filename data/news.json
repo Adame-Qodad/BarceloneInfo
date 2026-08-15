@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-14T19:01:04.686Z",
+  "lastUpdated": "2026-08-15T01:33:08.244Z",
   "articles": [
+    {
+      "title": "El torneo de los héroes",
+      "link": "https://www.marca.com/futbol/2026/08/15/torneo-heroes.html",
+      "excerpt": "Arranca LaLiga con 18 nuevos campeones mundiales mientras el Real Madrid de Mou y el Atlético del Cholo buscan el antídoto al Barça de Flick",
+      "date": "2026-08-14T22:36:01.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7eefe1a13c1.jpeg",
+      "slug": "el-torneo-de-los-heroes-o6uzjt",
+      "topic": "equipe",
+      "titleFr": "Le tournoi des héros",
+      "summaryFr": "LaLiga démarre avec 18 nouveaux champions du monde tandis que le Real Madrid de Mou et l'Atlético del Cholo cherchent l'antidote au Barça de Flick"
+    },
     {
       "title": "Eric García, preparado para ser uno de los capitanes del Barça",
       "link": "https://www.marca.com/futbol/barcelona/2026/08/14/eric-garcia-preparado-capitanes-barca.html",
@@ -260,19 +273,6 @@
       "topic": "equipe",
       "titleFr": "Julián Álvarez rencontre ses agents et insiste : il veut jouer au Barça",
       "summaryFr": "L'attaquant est contrarié parce que l'Atlético refuse de s'asseoir avec lui pour analyser son avenir"
-    },
-    {
-      "title": "Enorme tirón del Barça: el servidor del Basilea se paraliza por el aluvión de peticiones de entradas",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/10/enorme-tiron-barca-servidor-basilea-paraliza-aluvion-peticiones-entradas.html",
-      "excerpt": "La expectación es máxima para el partido amistoso del próximo domingo",
-      "date": "2026-08-10T17:05:11.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/10/6a7a001c29660.jpeg",
-      "slug": "enorme-tiron-del-barca-el-servidor-del-basilea-se-paral-dvs8zd",
-      "topic": "equipe",
-      "titleFr": "Énorme traction du Barça : le serveur de Bâle est paralysé par le déluge de demandes de billets",
-      "summaryFr": "L'attente est maximale pour le match amical de dimanche prochain"
     },
     {
       "title": "En attendant Adeyemi, le Barça tient sa recrue surprise du mercato pour 8,5 M€ - TOP Mercato",
