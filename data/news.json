@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-20T01:35:00.679Z",
+  "lastUpdated": "2026-08-20T06:54:34.189Z",
   "articles": [
+    {
+      "title": "El Barça se adelanta al futuro: Deco ya tiene el sustituto de Szczesny",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/20/barca-adelanta-futuro-deco-sustituto-szczesny.html",
+      "excerpt": "Negocia la incorporación de Livakovic para 2027",
+      "date": "2026-08-20T05:22:13.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/19/6a861abd5219e.jpeg",
+      "slug": "el-barca-se-adelanta-al-futuro-deco-ya-tiene-el-sustitu-z7rvf6",
+      "topic": "equipe",
+      "titleFr": "Le Barça anticipe l'avenir : Deco a déjà le remplaçant de Szczesny",
+      "summaryFr": "Négocie l'incorporation de Livakovic pour 2027"
+    },
     {
       "title": "Máxima expectación en la llegada de Rodri a la Ciudad Deportiva del Barça",
       "link": "https://www.marca.com/futbol/barcelona/2026/08/19/maxima-expectacion-llegada-rodri-ciudad-deportiva-barca-video.html",
@@ -132,19 +145,6 @@
       "summaryFr": "Il sera l'assistant de Belletti au Barça Atlétic"
     },
     {
-      "title": "Magistral Valdano: sus cuentas sobre el fichaje de Rodri por el Barcelona",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/17/valdano-le-salen-cuentas-fichaje-rodri-vale-35-millones-aporte-barca-40-le-resta-madrid.html",
-      "excerpt": "\"Para mí Rodri vale 35 millones su aporte al Barcelona y 40 millones lo que le resta al Real Madrid\"",
-      "date": "2026-08-17T06:43:25.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/17/dVW2I1gWk_WQzQlOH.jpeg",
-      "slug": "magistral-valdano-sus-cuentas-sobre-el-fichaje-de-rodri-jp7lk5",
-      "topic": "mercato",
-      "titleFr": "Magistral Valdano : ses comptes sur le transfert de Rodri à Barcelone",
-      "summaryFr": "\"Pour moi Rodri vaut 35 millions sa contribution à Barcelone et 40 millions ce qui reste au Real Madrid\""
-    },
-    {
       "title": "En attendant Adeyemi, le Barça tient sa recrue surprise du mercato pour 8,5 M€ - TOP Mercato",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWRTSDlEaGZmOFV5bUFBQ0pQbkpYRUNDcWZma0h4dUNXbDh4MXNOVjZoeXRNZ2llYWxLSFlHZDJjOHZ5N3FTaDFHaDFVZmFiT05CUFE4Qk5rcUxZYWltUldqN1Y5VUFrcXF1NGxNV3ExSXBQMmRqUVBqNFRHMU4tUnlUREowMXdKTGlEOU1HOTZjcG9YYzU3U0pKd0JYU0o5QWV4WDJDRjZaSEZlOGRtM3l3?oc=5",
       "excerpt": "En attendant Adeyemi, le Barça tient sa recrue surprise du mercato pour 8,5 M€ TOP Mercato",
@@ -169,6 +169,19 @@
       "topic": "mercato",
       "titleFr": "INFO Mercato : Un crack dit non au Barça pour signer au PSG - Foot Sur 7",
       "summaryFr": "INFO Mercato : Un crack dit non au Barça pour signer au PSG Foot Sur 7"
+    },
+    {
+      "title": "Le Barça ouvre les portes de l’équipe première à Onstein - footmercato.net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDA4NjBwYWVWT2FsLS1VUFNfckpPdl81cW1wWUw5eVc5Zkg1LWNhdndLSmgzdDVYMVFqV1B3cURVSDZTdVFjbHB3T0JuSWNMcUc1WFB0WVR0eXRaejZ4N2UzaG52UU54cHV1RUVkeXVnVEpvang5WG84RGYxUzlsTjNfNmFzRWRZanBwd0lvVkpDMU9JOTkyVFg5anhkQTJxczNzSHkzdw?oc=5",
+      "excerpt": "Le Barça ouvre les portes de l’équipe première à Onstein footmercato.net",
+      "date": "2026-07-10T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "le-barca-ouvre-les-portes-de-l-equipe-premiere-a-onstei-eauk0f",
+      "topic": "mercato",
+      "titleFr": "Le Barça ouvre les portes de l’équipe première à Onstein - footmercato.net",
+      "summaryFr": "Le Barça ouvre les portes de l’équipe première à Onstein footmercato.net"
     },
     {
       "title": "Kounde, first from Barça into quarter finals - Site officiel du FC Barcelone",
@@ -392,17 +405,30 @@
       "summaryFr": "Mercato Barça : déjà un accord pour l’arrivée d’une pépite contre 25 M€ TOP Mercato"
     },
     {
-      "title": "Oriol Romeu quitte le Barça - Foot Mercato",
+      "title": "Oriol Romeu quitte le Barça - footmercato.net",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMldwNVFyUmtXQUxEbTQxUldYdjFBa2FuSHZvWTU5YVVFemx4TEtEQ09XNi1MVHhrY3ZXeUtQVGptU243VFlKY1lyTzRaSVBjQUFSN09FQ21hUVBpZTBuWTcyQVJVUmhLeWNwQU9NSTFlbnpKczI1OGF2YjdidzdCUkpB?oc=5",
-      "excerpt": "Oriol Romeu quitte le Barça Foot Mercato",
+      "excerpt": "Oriol Romeu quitte le Barça footmercato.net",
       "date": "2025-09-05T07:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
-      "slug": "oriol-romeu-quitte-le-barca-foot-mercato-dmb4rc",
+      "slug": "oriol-romeu-quitte-le-barca-footmercato-net-dmb4rc",
       "topic": "mercato",
-      "titleFr": "Oriol Romeu quitte le Barça - Foot Mercato",
-      "summaryFr": "Oriol Romeu quitte le Barça Foot Mercato"
+      "titleFr": "Oriol Romeu quitte le Barça - footmercato.net",
+      "summaryFr": "Oriol Romeu quitte le Barça footmercato.net"
+    },
+    {
+      "title": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90Min.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm9QV3VYM0hZQlhvdHJxcm5lek5ZVm1nWnZ3WUM4Q2p4UXpObkdMUjlYWmtfN0pPOXprR3Z3QVZSYjk2dHFjS3VGaUdmbkhtTEswWkg0WW9DSkI0X0IxQ2J3YmhncVZwc19qSVZuZUZSSndQejZmaWhYbHVfczNHcEFtTzV2T3c0WFhnNUl2NTAxM2JCRUMzdzZHQ1NlRTZ1NVhmMnZYQS00YzR0SjhzN21NZnRuOTZBZmNrM3VoMzlPTTA1OG44?oc=5",
+      "excerpt": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90Min.com",
+      "date": "2025-05-26T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "fc-barcelone-mercato-les-blaugrana-finalisent-une-premi-u5j6cg",
+      "topic": "mercato",
+      "titleFr": "FC Barcelone Mercato : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A - 90Min.com",
+      "summaryFr": "FC Barcelone Marché : Les Blaugrana finalisent une première vente d'un joueur vers la Serie A 90Min.com"
     },
     {
       "title": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
@@ -432,29 +458,29 @@
     },
     {
       "title": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQktvYUFlSGdaVldHYVFnOE1hRHpWTmY5aVlycXRpN2d4TEFJQk5KNFVSV1ZhempiWnlkeFltbUM1cllfUHVhZmJuZ1ZGUWpOQ1hJaF9SSzVUZTVzNjc5a3JENVhmLXNoSXlaSXdGUHVlVDZpRW91R0RpNzFhRDlXcGVhbWFVRDU0d0xwTWNYdnRJMlJINUttTEt2clRNYUxBUG9pcGV1SlIxczZ3TXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmhDQmIxbHBaMmdDbmxWMTBCQUNrZ2J1bnJZeFI0alN4Y294R3dUbnpTUWp1aEgtVTd3VFZUN3pPYjFNdVBPdERfQzlQYk9pM093ZFNTRG1oMEY2Y0dJb2JQRThGSXZlUllkS18tSFBLOUdMWnRkR293TjRzTzYtaFlYay1CdG5NRG9EbW42QTg4Y085MWs0OXpwemJlNFQ0VFFtdHBOOFlCc0RXQjBybHEzQVh2dEpXR3NkMU1SZV9hU2ZPTkdWSXE1R0VaRXEySXRLV2VuTEZBVWs?oc=5",
       "excerpt": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone",
       "date": "2023-06-07T07:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
-      "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-xxnjej",
+      "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-njb2iz",
       "topic": "equipe",
       "titleFr": "Seven La Masia graduates make FC Barcelone first team debuts - Site officiel du FC Barcelone",
       "summaryFr": "Seven La Masia graduates make FC Barcelone first team debuts Site officiel du FC Barcelone"
     },
     {
-      "title": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
+      "title": "Barça : Nico González inscrit en équipe première en Liga - footmercato.net",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlnZ01CQm1kckV6UThqVmdMX1B5blpUYmpMbEQwNXJGUVlkdTBlZ1dlRWRmVVoxT1ZKWGNBWnN4c0QwSzNVdHBmTUhRcGlQQ0tUVDZGd2V6NnVaeEZoMi1pVDYxOWFINkNjQldqdWJMam1Hc0c0dlBYVEsxNy1FTEhJYmdTaDFwX2dZWmZ6S2Y2VHVMVXUwMWd1N2pHSGRaaGozVV9B?oc=5",
-      "excerpt": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato",
+      "excerpt": "Barça : Nico González inscrit en équipe première en Liga footmercato.net",
       "date": "2022-01-20T08:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
       "slug": "barca-nico-gonzalez-inscrit-en-equipe-premiere-en-liga--k5ocxi",
       "topic": "mercato",
-      "titleFr": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
-      "summaryFr": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato"
+      "titleFr": "Barça : Nico González inscrit en équipe première en Liga - footmercato.net",
+      "summaryFr": "Barça : Nico González inscrit en équipe première en Liga footmercato.net"
     },
     {
       "title": "First team collects Barça Players Award 2020 - Site officiel du FC Barcelone",
