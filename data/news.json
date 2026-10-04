@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-10-04T12:05:07.384Z",
+  "lastUpdated": "2026-10-04T21:06:47.098Z",
   "articles": [
+    {
+      "title": "El Barça regresa este lunes al trabajo tras unas 'mini vacaciones'",
+      "link": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.html",
+      "excerpt": "Los jugadores no internacionales disfrutaron de nueve días de descanso",
+      "date": "2026-10-04T15:46:20.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac220b984d1f.jpeg",
+      "slug": "el-barca-regresa-este-lunes-al-trabajo-tras-unas-mini-v-angouo",
+      "topic": "equipe",
+      "titleFr": "Le Barça retourne au travail ce lundi après des « mini-vacances »",
+      "summaryFr": "Les joueurs non internationaux ont bénéficié de neuf jours de repos"
+    },
+    {
+      "title": "El Barça domina Europa a ritmo de gol",
+      "link": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.html",
+      "excerpt": "Los culés, el equipo con mejor porcentaje realizador de las grandes ligas",
+      "date": "2026-10-04T14:48:16.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/28/6aba5a4c0660a.jpeg",
+      "slug": "el-barca-domina-europa-a-ritmo-de-gol-6gfhu8",
+      "topic": "equipe",
+      "titleFr": "Le Barça domine l'Europe au rythme des buts",
+      "summaryFr": "Les Culés, l'équipe avec le meilleur pourcentage de réalisateurs des grandes ligues"
+    },
     {
       "title": "Balde se mantiene firme con el Barça, pero el club confía en que cambie de idea... para enero",
       "link": "https://www.marca.com/futbol/barcelona/2026/10/03/balde-mantiene-firme-barca-club-confia-cambie-idea-enero.html",
@@ -156,19 +182,6 @@
       "topic": "equipe",
       "titleFr": "Le Barça, en alerte : Raphinha, remplacé par le Brésil pour des douleurs musculaires à la jambe droite",
       "summaryFr": "Le Blaugrana n'a pas pu poursuivre le match amical contre l'Australie"
-    },
-    {
-      "title": "Cambios en la cúpula del Barça",
-      "link": "https://www.marca.com/futbol/barcelona/2026/09/29/cambios-cupula-barca.html",
-      "excerpt": "Manel Del Río, director general desde hace justo un año, deja la entidad",
-      "date": "2026-09-29T11:35:32.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/19/6aaedb6a228ce.jpeg",
-      "slug": "cambios-en-la-cupula-del-barca-3v9c4m",
-      "topic": "equipe",
-      "titleFr": "Changements dans la coupole du Barça",
-      "summaryFr": "Manel Del Río, directeur général depuis tout juste un an, quitte l'entité"
     },
     {
       "title": "Mercato : le Barça sur le point de boucler l'arrivée de Baza - Blaugranas.fr",
@@ -444,17 +457,17 @@
       "summaryFr": "Mercato Barça : déjà un accord pour l’arrivée d’une pépite contre 25 M€ TOP Mercato"
     },
     {
-      "title": "Oriol Romeu quitte le Barça - Foot Mercato",
+      "title": "Oriol Romeu quitte le Barça - footmercato.net",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMldwNVFyUmtXQUxEbTQxUldYdjFBa2FuSHZvWTU5YVVFemx4TEtEQ09XNi1MVHhrY3ZXeUtQVGptU243VFlKY1lyTzRaSVBjQUFSN09FQ21hUVBpZTBuWTcyQVJVUmhLeWNwQU9NSTFlbnpKczI1OGF2YjdidzdCUkpB?oc=5",
-      "excerpt": "Oriol Romeu quitte le Barça Foot Mercato",
+      "excerpt": "Oriol Romeu quitte le Barça footmercato.net",
       "date": "2025-09-05T07:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
-      "slug": "oriol-romeu-quitte-le-barca-foot-mercato-dmb4rc",
+      "slug": "oriol-romeu-quitte-le-barca-footmercato-net-dmb4rc",
       "topic": "mercato",
-      "titleFr": "Oriol Romeu quitte le Barça - Foot Mercato",
-      "summaryFr": "Oriol Romeu quitte le Barça Foot Mercato"
+      "titleFr": "Oriol Romeu quitte le Barça - footmercato.net",
+      "summaryFr": "Oriol Romeu quitte le Barça footmercato.net"
     },
     {
       "title": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
@@ -496,17 +509,17 @@
       "summaryFr": "Seven La Masia graduates make FC Barcelone first team debuts Site officiel du FC Barcelone"
     },
     {
-      "title": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
+      "title": "Barça : Nico González inscrit en équipe première en Liga - footmercato.net",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlnZ01CQm1kckV6UThqVmdMX1B5blpUYmpMbEQwNXJGUVlkdTBlZ1dlRWRmVVoxT1ZKWGNBWnN4c0QwSzNVdHBmTUhRcGlQQ0tUVDZGd2V6NnVaeEZoMi1pVDYxOWFINkNjQldqdWJMam1Hc0c0dlBYVEsxNy1FTEhJYmdTaDFwX2dZWmZ6S2Y2VHVMVXUwMWd1N2pHSGRaaGozVV9B?oc=5",
-      "excerpt": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato",
+      "excerpt": "Barça : Nico González inscrit en équipe première en Liga footmercato.net",
       "date": "2022-01-20T08:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
       "slug": "barca-nico-gonzalez-inscrit-en-equipe-premiere-en-liga--k5ocxi",
       "topic": "mercato",
-      "titleFr": "Barça : Nico González inscrit en équipe première en Liga - Foot Mercato",
-      "summaryFr": "Barça : Nico González inscrit en équipe première en Liga Foot Mercato"
+      "titleFr": "Barça : Nico González inscrit en équipe première en Liga - footmercato.net",
+      "summaryFr": "Barça : Nico González inscrit en équipe première en Liga footmercato.net"
     },
     {
       "title": "First team collects Barça Players Award 2020 - Site officiel du FC Barcelone",
@@ -533,19 +546,6 @@
       "topic": "equipe",
       "titleFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
       "summaryFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened Site officiel du FC Barcelone"
-    },
-    {
-      "title": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdEM3WGdLdDVORHVZSHQ0Rk5lZzEyWk5mejZ2RmhMaHlfRzFDSE9HNkcyNU5ENVh0aFFsU3IyZWE5dVc5dUE5N1pScUZCQmYtRGV1ZkVOU2pqaTd5NDVHdjJ2UXF2MkJjSlFHQkRvdUpjSTJyZVFGUk1iejA0TEh6RTlfdFRLZmxiU2NCcml2bkdFZkdHaDNHbU1wRnFGYVMxTGk4VDVzVGw3X25rbXVKR2FKeU0xQy1GalRrX1NBQWNBWnBYcHYzWVFPODRrYThlbENoOW5rVW5WWU56Z3Nza29PQTE0ajk0Rmw5WVcxVDFnZF9TZUdTWEFRTW0ycHVfT3BmQWNXWmlWRDZEckd5bg?oc=5",
-      "excerpt": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack Site officiel du FC Barcelone",
-      "date": "2017-08-18T07:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "fc-barcelona-s-first-team-hold-a-minute-s-silence-in-me-wbxlr",
-      "topic": "equipe",
-      "titleFr": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack - Site officiel du FC Barcelone",
-      "summaryFr": "FC Barcelona's first team hold a minute's silence in memory of the victims of the Barcelona attack Site officiel du FC Barcelone"
     },
     {
       "title": "FC Barcelona first team squad pay homage to Tito Vilanova - Site officiel du FC Barcelone",
