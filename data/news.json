@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-11-06T14:00:31.972Z",
+  "lastUpdated": "2026-11-06T22:54:48.439Z",
   "articles": [
+    {
+      "title": "Atlético-Barça: como si nada hubiera pasado",
+      "link": "https://www.marca.com/futbol/barcelona/2026/11/06/atletico-barca-hubiera-pasado.html",
+      "excerpt": "Habrá comida de Directivas a pesar del enorme distanciamiento por el caso Julián",
+      "date": "2026-11-06T18:07:49.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aee15f62be28.jpeg",
+      "slug": "atletico-barca-como-si-nada-hubiera-pasado-53m83e",
+      "topic": "equipe",
+      "titleFr": "Atlético-Barça: como si nada hubiera pasado",
+      "summaryFr": "Il y aura de la nourriture de Directives malgré l'énorme distance par rapport à l'affaire Julián"
+    },
     {
       "title": "Al Barça le gusta madrugar",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/06/barca-le-gusta-madrugar.html",
@@ -158,32 +171,6 @@
       "summaryFr": "Le club blaugrana a exprimé ses condoléances à travers ses réseaux sociaux"
     },
     {
-      "title": "De Jong, el 'incómodo' imprescindible en el Barça",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/03/jong-incomodo-imprescindible-barca.html",
-      "excerpt": "Su profesionalidad y polivalencia le convierten siempre en pieza clave: suma 299 partidos",
-      "date": "2026-11-03T08:39:46.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/01/6ae7207eb8290.jpeg",
-      "slug": "de-jong-el-incomodo-imprescindible-en-el-barca-ga0bjw",
-      "topic": "equipe",
-      "titleFr": "De Jong, le « mal à l'aise » indispensable au Barça",
-      "summaryFr": "Su profesionalidad y polivalencia le convierten siempre en pieza clave: suma 299 partidos"
-    },
-    {
-      "title": "El Barça, la pesadilla de Emery",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/03/barca-pesadilla-emery.html",
-      "excerpt": "Es el equipo al que más veces se ha medido y que más le ha frustrado",
-      "date": "2026-11-03T05:53:39.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae73200f078c.r_d.407-874-0.jpeg",
-      "slug": "el-barca-la-pesadilla-de-emery-by1vto",
-      "topic": "equipe",
-      "titleFr": "Le Barça, le cauchemar d'Emery",
-      "summaryFr": "C'est l'équipe qui a été mesurée le plus souvent et qui a été le plus frustrée"
-    },
-    {
       "title": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/02/alineaciones-probables-barca-vs-aston-villa-cuarta-jornada-champions-league.html",
       "excerpt": "Ambos equipos tienen bajas destacadas por lesión",
@@ -195,6 +182,136 @@
       "topic": "equipe",
       "titleFr": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
       "summaryFr": "Les deux équipes ont des arrêts importants pour blessure"
+    },
+    {
+      "title": "Dani Olmo reaches 100 games for FC Barcelona - Official FC Barcelona Website",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkotRE1lNm9rMGphbXB5eTFJcDhGMi0zb3BHbWphWnBxTGhQd045cDBGQ2M5MHNxNkhxTFRWX3BYajdkaXlUVjdYT3NYZ1hmdk8zSFNqZ1JvVFIzdmdQWGFTMTFLY0p2bEZMbzJPV0dRT1Rwc2lGNzhDM3lqQ1lPZVVYcDVZV2RwV2o3bGZrU3BaMXZLNkRPbDFJTjFmNGJpQm5Hc1o4YlF4MzF5eEhWM2JabWpkbGZIV1JCd01iRVhFN2ZyaDYxWA?oc=5",
+      "excerpt": "Dani Olmo reaches 100 games for FC Barcelona Official FC Barcelona Website",
+      "date": "2026-10-30T03:05:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "dani-olmo-reaches-100-games-for-fc-barcelona-official-f-rhpum3",
+      "topic": "equipe",
+      "titleFr": "Dani Olmo atteint 100 matchs pour le FC Barcelone - Site officiel du FC Barcelone",
+      "summaryFr": "Dani Olmo atteint 100 matchs pour le site officiel du FC Barcelone"
+    },
+    {
+      "title": "Mercato : le Barça veut attirer Éli Junior Kroupi en plan B du dossier Julian Alvarez - L'Équipe",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamRUUVdwck9YbkhUWEFqNmkxLVJMczFoOFlydUhueDRFcnFLU2QtNEZfY3pwRUE5M29IWG9xbkhZYUMxS3g3QXFxdW44STRWSGR0aFBudlliV29nZUh5ZkpLTHFGMUtIcUEtQ1FGZW8xX0JNZ085aU96Y1lkeDRBUURhY0kwWlhJRk5oUUFTaEJ1czVsd1hJaXV4di13YjFYYnR2d1ZneEFsNm00dmM2NF9BNUMtcGh4OXFieWhyVm00WmdyTHBPcVBiWVZMc2c?oc=5",
+      "excerpt": "Mercato : le Barça veut attirer Éli Junior Kroupi en plan B du dossier Julian Alvarez L'Équipe",
+      "date": "2026-07-28T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "mercato-le-barca-veut-attirer-eli-junior-kroupi-en-plan-w8rf5o",
+      "topic": "mercato",
+      "titleFr": "Mercato : le Barça veut attirer Éli Junior Kroupi en plan B du dossier Julian Alvarez - L'Équipe",
+      "summaryFr": "Mercato : le Barça veut attirer Éli Junior Kroupi en plan B du dossier Julian Alvarez L'Équipe"
+    },
+    {
+      "title": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 - TOP Mercato",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVJvTWtxeWlsOVh1WVJvaWZIRHR3SnlhWjBvUlJhZTJYTFd6UFZoY3h3LVBiUEplVnViaFdKWlUzUjAzNXpZNVdjcDhoTkNxNmhLaFJUTTFYdVlfSEN2MVNWSFh0VWtNd0hoN0J0V3lDb3BrZERpY2VwMTRRVk8yUGRibzlMUktXT1lRZ1BHR1EySDczRTRmRGlPVTBYY0ZUcnhJTzluUHA5Tlpma3Jn?oc=5",
+      "excerpt": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 TOP Mercato",
+      "date": "2026-07-22T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "mercato-barca-departs-arrivees-rumeurs-tous-les-transfe-222min",
+      "topic": "mercato",
+      "titleFr": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 - TOP Mercato",
+      "summaryFr": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 TOP Mercato"
+    },
+    {
+      "title": "Mercato FC Barcelone. Jules Koundé vers un départ du Barça ? Un cador européen est intéressé - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZWh6MF9uMTBfeW5faXFvdUxpZjBuU2ZmcThwWU9fbkZCRjBjM0FBX3NiRlQ1cXRwSEZKcVlKZkplU0YyNXdPTEo1OVdsTTdXeGVkNWc1aHZvaS1BRi1YM3Z6RHR2SWtJMWM5aU5mNjlHdGEyNU8tY1JCOUJPNF9rcWZ4YWdWZUJnejVlVmJ0VFJJRmxVTjA5ZXB4QV9zV2NlRW1xZXNsX3YtRUFWY0NKOVRJVGxINDdBMXNXeGU2U3gydGU0MjUzeFFNTXkyQnFDYUc0Z1ZlYktXOTlkU2hlM3U0Znp3UjBETzBHYUFZTUNoaXJMMUdUek9NcmVnM1RQdWRFU3lZWlliRzVR?oc=5",
+      "excerpt": "Mercato FC Barcelone. Jules Koundé vers un départ du Barça ? Un cador européen est intéressé Ouest-France",
+      "date": "2026-07-12T07:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "mercato-fc-barcelone-jules-kounde-vers-un-depart-du-bar-yzq75j",
+      "topic": "mercato",
+      "titleFr": "Mercato FC Barcelone. Jules Koundé vers un départ du Barça ? Un cador européen est intéressé - Ouest-France",
+      "summaryFr": "Mercato FC Barcelone. Jules Koundé vers un départ du Barça ? Un cador européen est intéressé Ouest-France"
+    },
+    {
+      "title": "FC Barcelone mercato : Julian Alvarez première recrue de l'été du Barça ? La réponse forte de l'Atlético - 90Min.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT09Ec2JkdVNYZWpOYmxBSkhKdnFaWnlKUm5sLWp2MDM4TVZNSVJEeHVRQkJqUFpsaThkX1RhdDhZbGNPb2tXSzVWeUNNYnBVWGtJZkNUNFhTUkJMMGpHYUhCZUk3YkdUc3hoSjBkM0E5UEtjRndVRmtkcmZjQVpaNFRTbF9PcFlrX3NGM2xVYjZGTF9TbC1TRG9JdHNxWDJUQk82WnV0Wk5zVV8tNGpIVkwtUUNySEhheHhfaDVwdkY4a00?oc=5",
+      "excerpt": "FC Barcelone mercato : Julian Alvarez première recrue de l'été du Barça ? La réponse forte de l'Atlético 90Min.com",
+      "date": "2026-02-25T08:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "fc-barcelone-mercato-julian-alvarez-premiere-recrue-de--5gbykg",
+      "topic": "mercato",
+      "titleFr": "FC Barcelone mercato : Julian Alvarez première recrue de l'été du Barça ? La réponse forte de l'Atlético - 90Min.com",
+      "summaryFr": "FC Barcelone mercato : Julian Alvarez première recrue de l'été du Barça ? La réponse forte de l'Atlético 90Min.com"
+    },
+    {
+      "title": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajRFQkZsaVRNUGwwZjI4ekJKTkQ2WGFNR0Q4eG5vOGthYVVsZHNzVnZpSElUVXg2ZVFCUjl1WUpsc0FYRFg0SGcwLTJoa19ncEZpNWVYZXNHWWZoWHNjLTBmM0xKc1dITmNWZTh5X3NfWVhpbWVVVGF0dGhKY3k3Ykc0RVF4SjdqMUVrREljUk81THExVk5Ucm9xM2h1bzRzWlQwaWRjblI2OUFxVkFqSFZ5NWFzbzQ?oc=5",
+      "excerpt": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com",
+      "date": "2026-02-03T08:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "fc-barcelone-departs-arrivees-le-bilan-complet-du-merca-v099ew",
+      "topic": "mercato",
+      "titleFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
+      "summaryFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com"
+    },
+    {
+      "title": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnlOanJJemhMWWxkSVhfU2xzOWJ5dk1lb2VfdnM0TFdrQ0dzQ2I3V1RxWTNLRDdVQk5XNFZFSWhHbVZWb2d0R19kcF9qNUpXa2RQNjRvUDVBSnM0RGZ1X003TC1PQ3FaNE5xaG9WTDU3WjZuNnljQ2dkOTNxbHdtMlNYNjBDYmxSZ0J1X0E2MHN1N2N4VEIzYURGald1Z0FKLWs5czdyVm5JYkNPdDBvcHBBWXl4TVpWZTk0eXFSRU1qT2JCMmNKall0LWl6VmxF?oc=5",
+      "excerpt": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone",
+      "date": "2025-11-04T08:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "four-players-with-ties-to-both-barca-and-club-brugge-si-ovf2tk",
+      "topic": "mercato",
+      "titleFr": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
+      "summaryFr": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone"
+    },
+    {
+      "title": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUVWY1pJam9ZUVhPdUVCRjZaczZQUlBPeXVIaFQ2c2xoLTdONXE0MG11bG44YVR0MnVuWHJ5ZzhJdlVMOUdld3piRUNQVnJyOE00Q1hkTU9MUHY5Vy0yeUNWS2xUdTZhenNVdXVrRGNTclRtVEszY0hHeFd1ZHNMbWE2YkV4aUUtcVNZazZIZ1VKaTBlNkc0RllnakNXaVl4NDBWa1pxTTVQOTBNcTA1a0pCSmNGalEtSXpQR0FEVUQyWDVLRWc?oc=5",
+      "excerpt": "Pau Cubarsí, a year on from his debut for FC Barcelona Site officiel du FC Barcelone",
+      "date": "2025-01-18T08:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "pau-cubarsi-a-year-on-from-his-debut-for-fc-barcelona-s-5oth2v",
+      "topic": "equipe",
+      "titleFr": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
+      "summaryFr": "Pau Cubarsí, a year on from his debut for FC Barcelona Site officiel du FC Barcelone"
+    },
+    {
+      "title": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmhDQmIxbHBaMmdDbmxWMTBCQUNrZ2J1bnJZeFI0alN4Y294R3dUbnpTUWp1aEgtVTd3VFZUN3pPYjFNdVBPdERfQzlQYk9pM093ZFNTRG1oMEY2Y0dJb2JQRThGSXZlUllkS18tSFBLOUdMWnRkR293TjRzTzYtaFlYay1CdG5NRG9EbW42QTg4Y085MWs0OXpwemJlNFQ0VFFtdHBOOFlCc0RXQjBybHEzQVh2dEpXR3NkMU1SZV9hU2ZPTkdWSXE1R0VaRXEySXRLV2VuTEZBVWs?oc=5",
+      "excerpt": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone",
+      "date": "2023-06-07T07:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-njb2iz",
+      "topic": "equipe",
+      "titleFr": "Seven La Masia graduates make FC Barcelone first team debuts - Site officiel du FC Barcelone",
+      "summaryFr": "Seven La Masia graduates make FC Barcelone first team debuts Site officiel du FC Barcelone"
+    },
+    {
+      "title": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUVR2elBpMmVmdVFsbXhzTHNVczJMQUpaVDhXWGlZSkhlMXJ1Ym5ibXFQWkJPNlh5ZzA5NHlVMkkzaHNJZjJXakR0LXZTM0VnNjVIbkZWZFpockcwRW1zc3NKMmttekczQ1AyTGVYRW5kVDE2UGo3MXptU2lEWUdQanFUQlF6d3U1em52eV94U1RBNGQ3cjdXRFRwcmNDaGRHU0Qxd0N1WGFTRnR5NmdLX0xKT2N3T3pXQVdlM2VuUUJQTlR5d1BtUEtkVVVxc0hLUE1hb1liamRzTFU4cThUU00zODlLYlNqZzM5cHB3?oc=5",
+      "excerpt": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened Site officiel du FC Barcelone",
+      "date": "2020-01-14T08:00:00.000Z",
+      "source": "Google News",
+      "category": "equipe",
+      "image": null,
+      "slug": "quique-setien-s-presentation-as-the-new-coach-of-fc-bar-bku0bd",
+      "topic": "equipe",
+      "titleFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened - Site officiel du FC Barcelone",
+      "summaryFr": "Quique Setién's presentation as the new coach of FC Barcelona, as it happened Site officiel du FC Barcelone"
     }
   ]
 }
