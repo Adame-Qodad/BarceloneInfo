@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-11-06T05:55:15.977Z",
+  "lastUpdated": "2026-11-06T14:00:31.972Z",
   "articles": [
+    {
+      "title": "Al Barça le gusta madrugar",
+      "link": "https://www.marca.com/futbol/barcelona/2026/11/06/barca-le-gusta-madrugar.html",
+      "excerpt": "Los culés han marcado antes del minuto 10 en más de la mitad de los partidos",
+      "date": "2026-11-06T10:09:54.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aeda58c6a24a.jpeg",
+      "slug": "al-barca-le-gusta-madrugar-fy5syd",
+      "topic": "equipe",
+      "titleFr": "Al Barça le gusta madrugar",
+      "summaryFr": "Les Culés ont marqué avant la 10ème minute dans plus de la moitié des matches"
+    },
     {
       "title": "Camp Nou: miedo a más retrasos",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/05/camp-nou-miedo-retrasos.html",
@@ -171,32 +184,6 @@
       "summaryFr": "C'est l'équipe qui a été mesurée le plus souvent et qui a été le plus frustrée"
     },
     {
-      "title": "Barcelona - Aston Villa: Europa no perdona",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/02/barcelona-aston-villa-europa-perdona.html",
-      "excerpt": "El Barça no puede permitirse un segundo tropiezo frente al Aston Villa",
-      "date": "2026-11-02T20:25:27.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8cf3ea3822.r_d.469-639-0.jpeg",
-      "slug": "barcelona-aston-villa-europa-no-perdona-ptq5l4",
-      "topic": "equipe",
-      "titleFr": "Barcelone - Aston Villa : Europa no perdona",
-      "summaryFr": "Le Barça ne peut pas se permettre un deuxième revers face à Aston Villa"
-    },
-    {
-      "title": "Emery: \"El Barça es favorito para ganar la Champions\"",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/02/emery-barca-favorito-ganar-champions.html",
-      "excerpt": "El técnico del Aston Villa elogia el juego de los azulgranas",
-      "date": "2026-11-02T20:01:41.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8d54961e11.jpeg",
-      "slug": "emery-el-barca-es-favorito-para-ganar-la-champions-6rsv5r",
-      "topic": "equipe",
-      "titleFr": "Emery : « Le Barça est favori pour gagner la Ligue des Champions »",
-      "summaryFr": "Le technicien d'Aston Villa fait l'éloge du jeu des Blaugranas"
-    },
-    {
       "title": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/02/alineaciones-probables-barca-vs-aston-villa-cuarta-jornada-champions-league.html",
       "excerpt": "Ambos equipos tienen bajas destacadas por lesión",
@@ -208,19 +195,6 @@
       "topic": "equipe",
       "titleFr": "Alineaciones confirmadas de Barcelona y Aston Villa: Fariñas, titular",
       "summaryFr": "Les deux équipes ont des arrêts importants pour blessure"
-    },
-    {
-      "title": "Flick ofrece el pesimista parte médico de los lesionados del Barça",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/02/flick-ofrece-pesimista-parte-medico-lesionados-barca.html",
-      "excerpt": "No recupera a ningún futbolista para los próximos partidos",
-      "date": "2026-11-02T13:49:41.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8915811059.jpeg",
-      "slug": "flick-ofrece-el-pesimista-parte-medico-de-los-lesionado-j2nqni",
-      "topic": "equipe",
-      "titleFr": "Flick offre la partie médicale pessimiste des blessés du Barça",
-      "summaryFr": "Ne récupère aucun joueur pour les prochains matchs"
     }
   ]
 }
