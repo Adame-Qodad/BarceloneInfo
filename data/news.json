@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-11-15T13:44:29.834Z",
+  "lastUpdated": "2026-11-15T22:40:05.076Z",
   "articles": [
+    {
+      "title": "El Ajax-Barça benéfico, en imágenes",
+      "link": "https://www.marca.com/futbol/barcelona/album/2026/11/15/ajax-barca-benefico-imagenes.html",
+      "excerpt": "Leyendas del Ajax y del Barcelona se regalaron este domingo un festín de goles en un partido benéfico a favor de la Fundación Johan Cruyff disputado en Ámsterdam, en el Johan Cruyff Arena. Por ahí desfilaron Van der Sar, Litmanen, los hermanos De Boe",
+      "date": "2026-11-15T17:57:33.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/15/6af9f137a464e.jpeg",
+      "slug": "el-ajax-barca-benefico-en-imagenes-o9b7uh",
+      "topic": "equipe",
+      "titleFr": "Le match de charité Ajax-Barça, en images",
+      "summaryFr": "Les légendes de l'Ajax et du Barça se sont offert ce dimanche un festival de buts lors d'un match de charité en faveur de la Fondation Johan Cruyff, disputé à Amsterdam, à la Johan Cruyff Arena. Van der Sar, Litmanen, les frères De Boer, Giuly, Saviola, Kluivert... ont défilé sur le terrain. Les reconnaissez-vous tous ?"
+    },
     {
       "title": "El Barça pierde el control de Araujo",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/15/barca-pierde-control-araujo.html",
@@ -24,8 +37,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/6af826ea5b39a.jpeg",
       "slug": "el-barca-ata-a-farinas-saa05f",
       "topic": "equipe",
-      "titleFr": "Le Barça s’assure les services de Fariñas",
-      "summaryFr": "Accord de principe avec le joueur ; après la trêve, sa continuité sera confirmée."
+      "titleFr": "Le Barça engage Fariñas",
+      "summaryFr": "Accord de principe avec le joueur ; après la trêve, sa continuité sera conclue"
     },
     {
       "title": "El Barça sufre por el central",
@@ -50,7 +63,7 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/10/6ac973b3286d5.jpeg",
       "slug": "el-barca-completa-la-emision-de-bonos-por-300-millones--7vayr0",
       "topic": "equipe",
-      "titleFr": "Le Barça finalise l’émission d’obligations d’un montant de 300 millions d’euros pour achever le Spotify Camp Nou",
+      "titleFr": "Le Barça finalise l’émission d’obligations de 300 millions d’euros pour achever le Spotify Camp Nou",
       "summaryFr": "Bonne nouvelle pour le conseil d’administration de Laporta"
     },
     {
@@ -77,7 +90,7 @@
       "slug": "koeman-el-barca-es-favorito-para-laliga-la-champions-es-ln03nu",
       "topic": "equipe",
       "titleFr": "Koeman : « Le Barça est favori pour la Liga, la Ligue des champions, c'est autre chose... »",
-      "summaryFr": "L’ancien entraîneur barcelonais donne son avis sur l’actualité du Barça"
+      "summaryFr": "L’ancien entraîneur du Barça donne son avis sur l’actualité blaugrana"
     },
     {
       "title": "Raphinha, muy emocionado: \"Quiero estar disponible no solo para la selección, también para el Barça\"",
@@ -116,7 +129,7 @@
       "slug": "el-barca-de-flick-sabe-sufrir-aixwfq",
       "topic": "equipe",
       "titleFr": "Le Barça de Flick sait souffrir",
-      "summaryFr": "L’équipe barcelonaise compte quatre remontadas cette saison et 23 avec l’entraîneur allemand"
+      "summaryFr": "L’équipe barcelonaise compte quatre remontées cette saison et 23 avec l’entraîneur allemand"
     },
     {
       "title": "Joan García analiza las mutaciones del Barcelona tras los descansos: \"Hansi Flick tiene incidencia\"",
@@ -129,7 +142,7 @@
       "slug": "joan-garcia-analiza-las-mutaciones-del-barcelona-tras-l-mo9esh",
       "topic": "equipe",
       "titleFr": "Joan García analyse les changements au sein du Barça après les pauses : « Hansi Flick a une influence »",
-      "summaryFr": "« Les gens ne remarquent que les fois où ils arrivent devant le but, mais un gardien du Barça doit toujours être attentif, sortir de sa surface et prendre des décisions en quelques millisecondes. »"
+      "summaryFr": "« Les gens ne remarquent que les fois où ils arrivent jusqu’au but, mais un gardien du Barça doit toujours être attentif, sortir de sa surface et prendre des décisions en quelques millisecondes. »"
     },
     {
       "title": "Bernal: \"La llegada de Rodri me quitaba minutos pero el club me transmitió tranquilidad\"",
@@ -141,34 +154,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/11/6af3ad31dc5ed.jpeg",
       "slug": "bernal-la-llegada-de-rodri-me-quitaba-minutos-pero-el-c-kv28z4",
       "topic": "equipe",
-      "titleFr": "Bernal : « L’arrivée de Rodri m’a fait perdre des minutes, mais le club m’a rassuré »",
+      "titleFr": "Bernal : « L’arrivée de Rodri m’a fait perdre du temps de jeu, mais le club m’a rassuré »",
       "summaryFr": "Le milieu de terrain parle de son rôle actuel dans le Barça de Flick"
-    },
-    {
-      "title": "Flick da cinco días de descanso a la plantilla: tras el parón, el calendario no dará tregua al Barça",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/10/flick-da-cinco-dias-descanso-plantilla-paron-calendario-dara-tregua-barca.html",
-      "excerpt": "Sólo se pasarán por las instalaciones los lesionados y los que lo hagan de forma voluntaria",
-      "date": "2026-11-10T12:16:30.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/10/6af300fd592e7.jpeg",
-      "slug": "flick-da-cinco-dias-de-descanso-a-la-plantilla-tras-el--gttken",
-      "topic": "equipe",
-      "titleFr": "Flick accorde cinq jours de repos à l’équipe : après la trêve, le calendrier ne laissera aucun répit au Barça",
-      "summaryFr": "Seules les personnes blessées et celles qui le feront volontairement passeront par les installations."
-    },
-    {
-      "title": "Raphinha ya está en Singapur y Brasil le dosificará para evitar que regrese al Barça, por enésima vez, lesionado",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/10/raphinha-singapur-brasil-le-dosificara-evitar-regrese-barca-enesima-vez-lesionado.html",
-      "excerpt": "El combinado nacional y el Barça están en contacto y acuerdan la gestión de los minutos",
-      "date": "2026-11-10T11:06:17.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/12/6accb868a73d1.jpeg",
-      "slug": "raphinha-ya-esta-en-singapur-y-brasil-le-dosificara-par-la1ugn",
-      "topic": "equipe",
-      "titleFr": "Raphinha est déjà à Singapour et le Brésil va le ménager pour éviter qu’il ne revienne au Barça, pour la énième fois, blessé.",
-      "summaryFr": "L’équipe nationale et le Barça sont en contact et s’entendent sur la gestion du temps de jeu"
     },
     {
       "title": "Mercato FC Barcelone. Gabriel Jesus rejoint officiellement le Barça contre un montant de 11 millions d’euros - Ouest-France",
@@ -223,6 +210,19 @@
       "summaryFr": "Mercato FC Barcelone. Jules Koundé vers un départ du Barça ? Un cador européen est intéressé Ouest-France"
     },
     {
+      "title": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajRFQkZsaVRNUGwwZjI4ekJKTkQ2WGFNR0Q4eG5vOGthYVVsZHNzVnZpSElUVXg2ZVFCUjl1WUpsc0FYRFg0SGcwLTJoa19ncEZpNWVYZXNHWWZoWHNjLTBmM0xKc1dITmNWZTh5X3NfWVhpbWVVVGF0dGhKY3k3Ykc0RVF4SjdqMUVrREljUk81THExVk5Ucm9xM2h1bzRzWlQwaWRjblI2OUFxVkFqSFZ5NWFzbzQ?oc=5",
+      "excerpt": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com",
+      "date": "2026-02-03T08:00:00.000Z",
+      "source": "Google News Mercato",
+      "category": "mercato",
+      "image": null,
+      "slug": "fc-barcelone-departs-arrivees-le-bilan-complet-du-merca-v099ew",
+      "topic": "mercato",
+      "titleFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90Min.com",
+      "summaryFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90Min.com"
+    },
+    {
       "title": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnlOanJJemhMWWxkSVhfU2xzOWJ5dk1lb2VfdnM0TFdrQ0dzQ2I3V1RxWTNLRDdVQk5XNFZFSWhHbVZWb2d0R19kcF9qNUpXa2RQNjRvUDVBSnM0RGZ1X003TC1PQ3FaNE5xaG9WTDU3WjZuNnljQ2dkOTNxbHdtMlNYNjBDYmxSZ0J1X0E2MHN1N2N4VEIzYURGald1Z0FKLWs5czdyVm5JYkNPdDBvcHBBWXl4TVpWZTk0eXFSRU1qT2JCMmNKall0LWl6VmxF?oc=5",
       "excerpt": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone",
@@ -250,16 +250,16 @@
     },
     {
       "title": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmhDQmIxbHBaMmdDbmxWMTBCQUNrZ2J1bnJZeFI0alN4Y294R3dUbnpTUWp1aEgtVTd3VFZUN3pPYjFNdVBPdERfQzlQYk9pM093ZFNTRG1oMEY2Y0dJb2JQRThGSXZlUllkS18tSFBLOUdMWnRkR293TjRzTzYtaFlYay1CdG5NRG9EbW42QTg4Y085MWs0OXpwemJlNFQ0VFFtdHBOOFlCc0RXQjBybHEzQVh2dEpXR3NkMU1SZV9hU2ZPTkdWSXE1R0VaRXEySXRLV2VuTEZBVWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdERmU19OM2pFeENmNHZCVzVMVHN3bHdUalMyenNOa2x3OFZNR2xtLU5abHY4cVd5cVJhQW02VXFVN2Y0NWxkTUFHMjE5NWVhZUZUSGtWb3h5cDNKNGJUcjZDbng1OHk1WllORThkZVVLT3ZUSXlHbUJ2M0kwUy1nbGVxSTM4dy04a2xkNVg5bWtkeVY5NVdjRnFXRXZnejhROXlWT2RFZkVWM0F5RTVUUldoN0pGUUMyaVdfSS1qUnpqQllvQWw3TjRGcmhZSDA?oc=5",
       "excerpt": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone",
       "date": "2023-06-07T07:00:00.000Z",
       "source": "Google News",
       "category": "equipe",
       "image": null,
-      "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-njb2iz",
+      "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-9ggska",
       "topic": "equipe",
       "titleFr": "Sept jeunes issus de La Masia font leurs débuts en équipe première du FC Barcelone - Site officiel du FC Barcelone",
-      "summaryFr": "Sept jeunes issus de La Masia font leurs débuts en équipe première du FC Barcelone Site officiel du FC Barcelone"
+      "summaryFr": "Sept diplômés de La Masia font leurs débuts en équipe première du FC Barcelone Site officiel du FC Barcelone"
     },
     {
       "title": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 - TOP Mercato",
