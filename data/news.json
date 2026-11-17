@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-11-17T01:46:26.776Z",
+  "lastUpdated": "2026-11-17T15:45:21.045Z",
   "articles": [
+    {
+      "title": "El Barça no tiene ninguna oferta por Balde",
+      "link": "https://www.marca.com/futbol/barcelona/2026/11/17/barca-ninguna-oferta-balde.html",
+      "excerpt": "Juventus, PSG y Mónaco se han interesado por él",
+      "date": "2026-11-17T12:42:24.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/17/6afc48bd128cb.jpeg",
+      "slug": "el-barca-no-tiene-ninguna-oferta-por-balde-d0xh4u",
+      "topic": "equipe",
+      "titleFr": "Le Barça n’a reçu aucune offre pour Balde",
+      "summaryFr": "La Juventus, le PSG et Monaco se sont intéressés à lui"
+    },
     {
       "title": "De Jong estará disponible ante el Villarreal; Cubarsí es duda",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/16/jong-estara-disponible-villarreal-pese-lesion-muscular.html",
@@ -24,7 +37,7 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/15/6af9f137a464e.jpeg",
       "slug": "el-ajax-barca-benefico-en-imagenes-o9b7uh",
       "topic": "equipe",
-      "titleFr": "Le match de charité Ajax-Barça en images",
+      "titleFr": "Le match de charité Ajax-Barça, en images",
       "summaryFr": "Les légendes de l'Ajax et du Barça se sont offert ce dimanche un festival de buts lors d'un match de charité en faveur de la Fondation Johan Cruyff, disputé à Amsterdam, à la Johan Cruyff Arena. Van der Sar, Litmanen, les frères De Boer, Giuly, Saviola, Kluivert... ont défilé sur le terrain. Les reconnaissez-vous tous ?"
     },
     {
@@ -50,8 +63,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/14/6af826ea5b39a.jpeg",
       "slug": "el-barca-ata-a-farinas-saa05f",
       "topic": "equipe",
-      "titleFr": "Le Barça engage Fariñas",
-      "summaryFr": "Accord de principe avec le joueur ; après la trêve, sa continuité sera confirmée."
+      "titleFr": "Le Barça s’assure les services de Fariñas",
+      "summaryFr": "Accord de principe avec le joueur ; après la trêve, sa continuité sera conclue"
     },
     {
       "title": "El Barça sufre por el central",
@@ -76,7 +89,7 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/10/6ac973b3286d5.jpeg",
       "slug": "el-barca-completa-la-emision-de-bonos-por-300-millones--7vayr0",
       "topic": "equipe",
-      "titleFr": "Le Barça finalise l’émission d’obligations de 300 millions d’euros pour achever le Spotify Camp Nou",
+      "titleFr": "Le Barça finalise l’émission d’obligations d’un montant de 300 millions d’euros pour achever le Spotify Camp Nou",
       "summaryFr": "Bonne nouvelle pour le conseil d’administration de Laporta"
     },
     {
@@ -103,7 +116,7 @@
       "slug": "koeman-el-barca-es-favorito-para-laliga-la-champions-es-ln03nu",
       "topic": "equipe",
       "titleFr": "Koeman : « Le Barça est favori pour la Liga, la Ligue des champions, c'est autre chose... »",
-      "summaryFr": "L’ancien entraîneur du Barça donne son avis sur l’actualité blaugrana"
+      "summaryFr": "L’ancien entraîneur barcelonais donne son avis sur l’actualité du Barça"
     },
     {
       "title": "Raphinha, muy emocionado: \"Quiero estar disponible no solo para la selección, también para el Barça\"",
@@ -130,19 +143,6 @@
       "topic": "equipe",
       "titleFr": "Laporta, à New York pour le IIIe Mémorial Johan Cruyff et pour développer les activités du Barça",
       "summaryFr": "Samedi, plusieurs événements sont prévus, dont certains avec le maire de la grande ville américaine."
-    },
-    {
-      "title": "El Barça de Flick sabe sufrir",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/11/barca-flick-sufrir.html",
-      "excerpt": "El bloque culé suma cuatro remontadas este curso y con el técnico germano, 23",
-      "date": "2026-11-11T10:58:50.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/09/6af1e64189975.jpeg",
-      "slug": "el-barca-de-flick-sabe-sufrir-aixwfq",
-      "topic": "equipe",
-      "titleFr": "Le Barça de Flick sait souffrir",
-      "summaryFr": "L’équipe barcelonaise compte quatre remontadas cette saison et 23 avec l’entraîneur allemand"
     },
     {
       "title": "Mercato FC Barcelone. Gabriel Jesus rejoint officiellement le Barça contre un montant de 11 millions d’euros - Ouest-France",
@@ -210,19 +210,6 @@
       "summaryFr": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone"
     },
     {
-      "title": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUVWY1pJam9ZUVhPdUVCRjZaczZQUlBPeXVIaFQ2c2xoLTdONXE0MG11bG44YVR0MnVuWHJ5ZzhJdlVMOUdld3piRUNQVnJyOE00Q1hkTU9MUHY5Vy0yeUNWS2xUdTZhenNVdXVrRGNTclRtVEszY0hHeFd1ZHNMbWE2YkV4aUUtcVNZazZIZ1VKaTBlNkc0RllnakNXaVl4NDBWa1pxTTVQOTBNcTA1a0pCSmNGalEtSXpQR0FEVUQyWDVLRWc?oc=5",
-      "excerpt": "Pau Cubarsí, a year on from his debut for FC Barcelona Site officiel du FC Barcelone",
-      "date": "2025-01-18T08:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "pau-cubarsi-a-year-on-from-his-debut-for-fc-barcelona-s-5oth2v",
-      "topic": "equipe",
-      "titleFr": "Pau Cubarsí, a year on from his debut for FC Barcelona - Site officiel du FC Barcelone",
-      "summaryFr": "Pau Cubarsí, a year on from his debut for FC Barcelona Site officiel du FC Barcelone"
-    },
-    {
       "title": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdERmU19OM2pFeENmNHZCVzVMVHN3bHdUalMyenNOa2x3OFZNR2xtLU5abHY4cVd5cVJhQW02VXFVN2Y0NWxkTUFHMjE5NWVhZUZUSGtWb3h5cDNKNGJUcjZDbng1OHk1WllORThkZVVLT3ZUSXlHbUJ2M0kwUy1nbGVxSTM4dy04a2xkNVg5bWtkeVY5NVdjRnFXRXZnejhROXlWT2RFZkVWM0F5RTVUUldoN0pGUUMyaVdfSS1qUnpqQllvQWw3TjRGcmhZSDA?oc=5",
       "excerpt": "Seven La Masia graduates make FC Barcelona first team debuts Site officiel du FC Barcelone",
@@ -233,7 +220,7 @@
       "slug": "seven-la-masia-graduates-make-fc-barcelona-first-team-d-9ggska",
       "topic": "equipe",
       "titleFr": "Sept jeunes issus de La Masia font leurs débuts en équipe première du FC Barcelone - Site officiel du FC Barcelone",
-      "summaryFr": "Sept diplômés de La Masia font leurs débuts en équipe première du FC Barcelone Site officiel du FC Barcelone"
+      "summaryFr": "Sept jeunes issus de La Masia font leurs débuts en équipe première du FC Barcelone Site officiel du FC Barcelone"
     },
     {
       "title": "Mercato Barça : départs, arrivées, rumeurs… Tous les transferts de l’été 2026 - TOP Mercato",
