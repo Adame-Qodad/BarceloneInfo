@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-11-22T14:27:45.340Z",
+  "lastUpdated": "2026-11-22T23:27:12.947Z",
   "articles": [
+    {
+      "title": "Remontada de campeón del Barça",
+      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/11/22/remontada-campeon-barca.html",
+      "excerpt": "El Barcelona mantiene la ventaja en el liderato después de superar un 0-2 al Villarreal en una gran segunda parte. Lamine, que falló un penalti, decisivo en los dos goles finales",
+      "date": "2026-11-22T15:01:42.000Z",
+      "source": "Marca",
+      "category": "equipe",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/22/150953.jpeg",
+      "slug": "remontada-de-campeon-del-barca-1edxzz",
+      "topic": "equipe",
+      "titleFr": "Le retour gagnant du Barça",
+      "summaryFr": "Le Barça conserve son avance en tête du classement après avoir renversé un score de 0-2 contre Villarreal grâce à une excellente deuxième mi-temps. Lamine, qui a raté un penalty, a été décisif sur les deux derniers buts"
+    },
     {
       "title": "Rueda de prensa de Flick, en directo | Última hora del partido de LaLiga entre el Barça y el Villarreal",
       "link": "https://www.marca.com/futbol/barcelona/2026/11/21/6b017fe6020dbf8b21fb0882.html",
@@ -38,7 +51,7 @@
       "slug": "adnane-ghailan-lamine-de-chaval-ya-apuntaba-maneras-eb53ud",
       "topic": "equipe",
       "titleFr": "Adnane Ghailan: \"Lamine, de chaval, ya apuntaba maneras\"",
-      "summaryFr": "Le milieu de terrain a disputé des matchs amicaux à Rocafonda avec le crack du Barça et il est l'une des révélations de la deuxième division : « Je sentais que je pouvais m'intégrer à Cordoue »"
+      "summaryFr": "Le milieu de terrain a disputé des matchs amicaux à Rocafonda avec le crack du Barça et il est l’une des révélations de la deuxième division : « J’avais le sentiment de pouvoir m’intégrer à Cordoue »"
     },
     {
       "title": "Balde no se regala",
@@ -76,8 +89,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/18/6afda051b97d6.jpeg",
       "slug": "el-barca-respira-tras-el-paron-665y99",
       "topic": "equipe",
-      "titleFr": "Le Barça reprend son souffle après la pause",
-      "summaryFr": "Seuls Livakovic et Gordon ont accumulé suffisamment de minutes ; les autres Barcelonais, sans trop de pression"
+      "titleFr": "Le Barça reprend son souffle après la trêve",
+      "summaryFr": "Seuls Livakovic et Gordon ont accumulé suffisamment de minutes ; les autres joueurs du Barça n’ont pas eu beaucoup de temps de jeu."
     },
     {
       "title": "Luis Enrique confiesa sus primeros errores como entrenador: \"Hice muchas burradas\"",
@@ -90,7 +103,7 @@
       "slug": "luis-enrique-confiesa-sus-primeros-errores-como-entrena-vz95c9",
       "topic": "equipe",
       "titleFr": "Luis Enrique avoue ses premières erreurs en tant qu'entraîneur : « J'ai fait beaucoup de bêtises »",
-      "summaryFr": "Le documentaire « Tocats per Lucho » retrouve l'essence du Barça B de Luis Enrique qui a marqué une époque"
+      "summaryFr": "Le documentaire « Tocats per Lucho » restitue l’essence du Barça B de Luis Enrique qui a marqué une époque"
     },
     {
       "title": "El Barça no tiene ninguna oferta por Balde",
@@ -103,20 +116,7 @@
       "slug": "el-barca-no-tiene-ninguna-oferta-por-balde-d0xh4u",
       "topic": "equipe",
       "titleFr": "Le Barça n’a reçu aucune offre pour Balde",
-      "summaryFr": "La Juventus, le PSG et Monaco se sont intéressés à lui"
-    },
-    {
-      "title": "De Jong estará disponible ante el Villarreal; Cubarsí es duda",
-      "link": "https://www.marca.com/futbol/barcelona/2026/11/16/jong-estara-disponible-villarreal-pese-lesion-muscular.html",
-      "excerpt": "El Barça confirma que podrá jugar el domingo, pero abre la incógnita del defensa",
-      "date": "2026-11-16T13:50:00.000Z",
-      "source": "Marca",
-      "category": "equipe",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/16/6afacd5382673.jpeg",
-      "slug": "de-jong-estara-disponible-ante-el-villarreal-cubarsi-es-6vf49y",
-      "topic": "equipe",
-      "titleFr": "De Jong sera disponible pour affronter Villarreal ; Cubarsí est incertain",
-      "summaryFr": "Le Barça confirme qu’il pourra jouer dimanche, mais laisse planer le doute sur le défenseur"
+      "summaryFr": "La Juventus, le PSG et Monaco se sont montrés intéressés par lui."
     },
     {
       "title": "Mercato : Hansi Flick laisse entendre que le Barça ne recrutera pas d'attaquant si Julian Alvarez ne signe pas - L'Équipe",
@@ -182,19 +182,6 @@
       "topic": "mercato",
       "titleFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana - 90min.com",
       "summaryFr": "FC Barcelone : Départs, arrivées... Le bilan complet du mercato hivernal des Blaugrana 90min.com"
-    },
-    {
-      "title": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnlOanJJemhMWWxkSVhfU2xzOWJ5dk1lb2VfdnM0TFdrQ0dzQ2I3V1RxWTNLRDdVQk5XNFZFSWhHbVZWb2d0R19kcF9qNUpXa2RQNjRvUDVBSnM0RGZ1X003TC1PQ3FaNE5xaG9WTDU3WjZuNnljQ2dkOTNxbHdtMlNYNjBDYmxSZ0J1X0E2MHN1N2N4VEIzYURGald1Z0FKLWs5czdyVm5JYkNPdDBvcHBBWXl4TVpWZTk0eXFSRU1qT2JCMmNKall0LWl6VmxF?oc=5",
-      "excerpt": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone",
-      "date": "2025-11-04T08:00:00.000Z",
-      "source": "Google News",
-      "category": "equipe",
-      "image": null,
-      "slug": "four-players-with-ties-to-both-barca-and-club-brugge-si-ovf2tk",
-      "topic": "mercato",
-      "titleFr": "Four players with ties to both Barça and Club Brugge - Site officiel du FC Barcelone",
-      "summaryFr": "Four players with ties to both Barça and Club Brugge Site officiel du FC Barcelone"
     },
     {
       "title": "Seven La Masia graduates make FC Barcelona first team debuts - Site officiel du FC Barcelone",
